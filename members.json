@@ -2,94 +2,56 @@
   "members": {
     "mentors": [
       {
-        "id": "mentor-vincent-lin",
+        "id": "mentor-13",
         "name": {
-          "en": "Vincent Lin",
-          "zh-TW": "林文森"
+          "en": "13",
+          "zh-TW": "13"
         },
-        "image_link": "https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&q=80&w=1000",
+        "image_link": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=1000",
         "intro": {
-          "en": "Community lead focusing on product direction, iOS development workflow, and student team coaching.",
-          "zh-TW": "社群發起人，專注於產品方向、iOS 開發流程與學生團隊陪跑。"
-        },
-        "ig": "https://instagram.com/galile_vincent",
-        "yt": "https://youtube.com/@galilevincent",
-        "linkedin": "https://linkedin.com/in/galile-vincent",
-        "threads": "https://threads.net/@galile_vincent",
-        "personal_website": "https://galile.example.com"
+          "en": "Enterprise Developer Department Senior Manager",
+          "zh-TW": "企業開發者部門資深經理"
+        }
       },
       {
-        "id": "mentor-jane-hsu",
+        "id": "mentor-jane",
         "name": {
-          "en": "Jane Hsu",
-          "zh-TW": "許珍妮"
+          "en": "Jane",
+          "zh-TW": "Jane"
         },
         "image_link": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=1000",
         "intro": {
-          "en": "AI educator and content strategist helping students turn technical ideas into clear user narratives.",
-          "zh-TW": "AI 教育者與內容策略顧問，協助學生把技術想法轉化為清晰的使用者故事。"
-        },
-        "ig": "https://instagram.com/janeai",
-        "linkedin": "https://linkedin.com/in/jane-hsu-ai",
-        "threads": "https://threads.net/@janeai"
+          "en": "AI Developer Community Content Creator Leader",
+          "zh-TW": "AI 開發者社群內容創作者領導者"
+        }
       },
       {
-        "id": "mentor-kai-wu",
+        "id": "mentor-kai",
         "name": {
-          "en": "Kai Wu",
-          "zh-TW": "吳凱"
+          "en": "Kai",
+          "zh-TW": "Kai"
         },
         "image_link": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=1000",
         "intro": {
-          "en": "Technology strategy mentor guiding teams on market fit, MVP scope, and go-to-market basics.",
-          "zh-TW": "技術策略導師，協助團隊釐清市場契合度、MVP 範圍與基本上市策略。"
-        },
-        "linkedin": "https://linkedin.com/in/kai-wu-tech",
-        "personal_website": "https://kaiwu.example.com"
+          "en": "Foreign Tech Company Market Strategy Manager",
+          "zh-TW": "外商科技公司市場策略經理"
+        }
       }
     ],
     "members": [
       {
-        "id": "member-amy-chen",
+        "id": "member-vincent",
         "name": {
-          "en": "Amy Chen",
-          "zh-TW": "陳艾咪"
+          "en": "Vincent",
+          "zh-TW": "Vincent"
         },
-        "image_link": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&q=80&w=1000",
+        "image_link": "https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&q=80&w=1000",
         "intro": {
-          "en": "Student builder focused on SwiftUI, rapid prototyping, and interaction design.",
-          "zh-TW": "學生創作者，專注於 SwiftUI、快速原型與互動設計。"
+          "en": "WWDC SSC Winner '24 '25, MAIC First Place '25",
+          "zh-TW": "WWDC SSC 2024、2025 學生得獎者, 2025 MAIC 第一名"
         },
-        "ig": "https://instagram.com/amybuilds",
-        "threads": "https://threads.net/@amybuilds"
-      },
-      {
-        "id": "member-daniel-liu",
-        "name": {
-          "en": "Daniel Liu",
-          "zh-TW": "劉丹尼"
-        },
-        "image_link": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=1000",
-        "intro": {
-          "en": "Backend and data workflow contributor, supporting API integration and deployment.",
-          "zh-TW": "後端與資料流程協作者，負責 API 串接與部署支援。"
-        },
-        "linkedin": "https://linkedin.com/in/daniel-liu-dev",
-        "personal_website": "https://daniel.example.com"
-      },
-      {
-        "id": "member-mia-liao",
-        "name": {
-          "en": "Mia Liao",
-          "zh-TW": "廖米雅"
-        },
-        "image_link": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=1000",
-        "intro": {
-          "en": "Design and storytelling contributor translating technical work into clear demos and pitches.",
-          "zh-TW": "設計與敘事協作者，將技術成果轉化為清楚的展示與提案。"
-        },
-        "ig": "https://instagram.com/miastorylab",
-        "yt": "https://youtube.com/@miastorylab"
+        "linkedin": "https://www.linkedin.com/in/hung-yeh-chiang",
+        "threads": "https://threads.net/@vincent._0523"
       }
     ]
   }
