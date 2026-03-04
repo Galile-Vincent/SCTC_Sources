@@ -1,0 +1,28 @@
+{
+  "vision": {
+    "why_exist": {
+      "en": [
+        "AI is changing how software is built, but students often lack a practical path from tool usage to product ownership.",
+        "We exist to provide that path: structured mentorship, cross-domain collaboration, and a real build environment where ideas become working products."
+      ],
+      "zh-TW": [
+        "AI 正在改變軟體開發方式，但多數學生仍缺乏從工具使用者成長為產品實作者的清晰路徑。",
+        "我們的存在，就是提供這條路：有結構的導師制度、跨域協作與真實的實作環境，讓想法變成可運作的產品。"
+      ]
+    },
+    "what_doing": {
+      "en": [
+        "Run practical sessions that combine product thinking, AI workflows, and iOS implementation.",
+        "Support student teams with mentor checkpoints, technical reviews, and iteration plans.",
+        "Publish student stories and build logs to create reusable learning assets for the next cohort.",
+        "Connect students with industry mentors and peers through a long-term builder community."
+      ],
+      "zh-TW": [
+        "舉辦結合產品思維、AI 工作流程與 iOS 實作的訓練活動。",
+        "透過導師檢核、技術審查與迭代計畫支援學生團隊。",
+        "持續發布學生故事與開發紀錄，累積可重用的學習資產。",
+        "建立長期創作者社群，連結學生、業界導師與同儕資源。"
+      ]
+    }
+  }
+}

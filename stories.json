@@ -1,0 +1,67 @@
+{
+  "stories": [
+    {
+      "id": "first-prototype-weekend",
+      "publish_date": "2026-02-15",
+      "publisher": {
+        "en": "Amy Chen",
+        "zh-TW": "陳艾咪"
+      },
+      "image_link": "https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&q=80&w=1400",
+      "title": {
+        "en": "Building Our First AI Prototype in One Weekend",
+        "zh-TW": "我們如何在一個週末完成第一個 AI 原型"
+      },
+      "sub_title": {
+        "en": "How a small student team moved from uncertain idea to a testable app flow.",
+        "zh-TW": "一個小型學生團隊如何從模糊想法走到可測試的 App 流程。"
+      },
+      "markdown_path": {
+        "en": "stories/first-prototype-weekend.en.md",
+        "zh-TW": "stories/first-prototype-weekend.zh-TW.md"
+      }
+    },
+    {
+      "id": "zero-to-one-lessons",
+      "publish_date": "2026-01-20",
+      "publisher": {
+        "en": "Daniel Liu",
+        "zh-TW": "劉丹尼"
+      },
+      "image_link": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1400",
+      "title": {
+        "en": "Zero to One Lessons from Student Product Building",
+        "zh-TW": "學生從 0 到 1 做產品的關鍵學習"
+      },
+      "sub_title": {
+        "en": "The execution habits that helped us ship instead of over-planning.",
+        "zh-TW": "讓團隊不再過度規劃、而是真的交付成果的執行習慣。"
+      },
+      "markdown_path": {
+        "en": "stories/zero-to-one-lessons.en.md",
+        "zh-TW": "stories/zero-to-one-lessons.zh-TW.md"
+      }
+    },
+    {
+      "id": "open-community-building",
+      "publish_date": "2025-11-05",
+      "publisher": {
+        "en": "Mia Liao",
+        "zh-TW": "廖米雅"
+      },
+      "image_link": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1400",
+      "title": {
+        "en": "Why Open Community Matters for Young Builders",
+        "zh-TW": "為什麼公開社群對年輕創作者很重要"
+      },
+      "sub_title": {
+        "en": "What we learned by sharing unfinished work in public.",
+        "zh-TW": "從公開分享未完成作品中，我們學到的關鍵經驗。"
+      },
+      "markdown_path": {
+        "en": "stories/open-community-building.en.md",
+        "zh-TW": "stories/open-community-building.zh-TW.md"
+      }
+    }
+  ]
+}

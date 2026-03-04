@@ -4,8 +4,13 @@ Public content source repository for the TSAIC website.
 
 ## Structure
 
-- `content.json`: main data file consumed by website frontend
-- `stories/*.md`: markdown story articles referenced by `content.json -> stories[].markdown_path`
+- `community.json`: community brand and subtitle
+- `members.json`: mentor/member profile data
+- `events.json`: event list and schedules
+- `social.json`: social/contact links
+- `vision.json`: mission and direction content
+- `stories.json`: story metadata
+- `stories/*.md`: markdown story articles referenced by `stories.json -> stories[].markdown_path`
 
 ## Bilingual Content (English + Traditional Chinese)
 
@@ -77,6 +82,11 @@ Recommended `markdown_path` format:
 
 - `community.abbreviation`: short brand text for navbar (localized supported)
 - `community.full_name`: full brand text for hero/footer (localized supported)
+
+## Module Notes
+
+- Frontend fetches each module file independently and composes one in-memory content object.
+- Legacy `content.json` can remain as backup, but source-of-truth should be the modular files above.
 
 ## Editing Notes
 

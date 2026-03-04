@@ -1,0 +1,20 @@
+{
+  "community": {
+    "abbreviation": {
+      "en": "SCTC × NTU RTC",
+      "zh-TW": "SCTC × 台大 Apple RTC"
+    },
+    "full_name": {
+      "en": "Student Creator Taiwan Community × NTU Apple Regional Training Center",
+      "zh-TW": "Student Creator Taiwan Community × 臺灣大學 Apple 區域培訓中心"
+    }
+  },
+  "community_name": {
+    "en": "Student Creator Taiwan Community × NTU Apple RTC",
+    "zh-TW": "Student Creator Taiwan Community × 台大 Apple RTC"
+  },
+  "community_subtitle": {
+    "en": "A six-month hybrid learning journey that helps students move from using AI tools to building AI-powered products with purpose.",
+    "zh-TW": "為期六個月的混合式學習旅程，協助學生從使用 AI 工具，進一步成長為能打造 AI 產品的創作者。"
+  }
+}
