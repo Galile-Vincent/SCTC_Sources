@@ -4,11 +4,11 @@ Moving from zero to one is less about having the perfect idea and more about red
 
 ## The Three Rules That Changed Our Progress
 
-## 1. Decide on a Hard Definition of Done
+### 1. Decide on a Hard Definition of Done
 
 For each sprint, we wrote one sentence that defined success. If a task did not directly support that sentence, we moved it to backlog.
 
-## 2. Build Around Real Constraints
+### 2. Build Around Real Constraints
 
 Instead of waiting for ideal tools or complete datasets, we designed around what we actually had:
 
@@ -18,7 +18,7 @@ Instead of waiting for ideal tools or complete datasets, we designed around what
 
 This forced better product judgment.
 
-## 3. Review Every Demo Through User Value
+### 3. Review Every Demo Through User Value
 
 In internal demos, we asked:
 

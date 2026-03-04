@@ -1,17 +1,35 @@
 {
   "community": {
-    "abbreviation": "SCTC × NTU RTC",
-    "full_name": "Student Creator Taiwan Community × NTU Apple Regional Training Center"
+    "abbreviation": {
+      "en": "SCTC × NTU RTC",
+      "zh-TW": "SCTC × 台大 Apple RTC"
+    },
+    "full_name": {
+      "en": "Student Creator Taiwan Community × NTU Apple Regional Training Center",
+      "zh-TW": "Student Creator Taiwan Community × 臺灣大學 Apple 區域培訓中心"
+    }
   },
-  "community_name": "Student Creator Taiwan Community × NTU Apple RTC",
-  "community_subtitle": "A six-month hybrid learning journey that helps students move from using AI tools to building AI-powered products with purpose.",
+  "community_name": {
+    "en": "Student Creator Taiwan Community × NTU Apple RTC",
+    "zh-TW": "Student Creator Taiwan Community × 台大 Apple RTC"
+  },
+  "community_subtitle": {
+    "en": "A six-month hybrid learning journey that helps students move from using AI tools to building AI-powered products with purpose.",
+    "zh-TW": "為期六個月的混合式學習旅程，協助學生從使用 AI 工具，進一步成長為能打造 AI 產品的創作者。"
+  },
   "members": {
     "mentors": [
       {
         "id": "mentor-vincent-lin",
-        "name": "Vincent Lin",
+        "name": {
+          "en": "Vincent Lin",
+          "zh-TW": "林文森"
+        },
         "image_link": "https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&q=80&w=1000",
-        "intro": "Community lead focusing on product direction, iOS development workflow, and student team coaching.",
+        "intro": {
+          "en": "Community lead focusing on product direction, iOS development workflow, and student team coaching.",
+          "zh-TW": "社群發起人，專注於產品方向、iOS 開發流程與學生團隊陪跑。"
+        },
         "ig": "https://instagram.com/galile_vincent",
         "yt": "https://youtube.com/@galilevincent",
         "linkedin": "https://linkedin.com/in/galile-vincent",
@@ -20,18 +38,30 @@
       },
       {
         "id": "mentor-jane-hsu",
-        "name": "Jane Hsu",
+        "name": {
+          "en": "Jane Hsu",
+          "zh-TW": "許珍妮"
+        },
         "image_link": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=1000",
-        "intro": "AI educator and content strategist helping students turn technical ideas into clear user narratives.",
+        "intro": {
+          "en": "AI educator and content strategist helping students turn technical ideas into clear user narratives.",
+          "zh-TW": "AI 教育者與內容策略顧問，協助學生把技術想法轉化為清晰的使用者故事。"
+        },
         "ig": "https://instagram.com/janeai",
         "linkedin": "https://linkedin.com/in/jane-hsu-ai",
         "threads": "https://threads.net/@janeai"
       },
       {
         "id": "mentor-kai-wu",
-        "name": "Kai Wu",
+        "name": {
+          "en": "Kai Wu",
+          "zh-TW": "吳凱"
+        },
         "image_link": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=1000",
-        "intro": "Technology strategy mentor guiding teams on market fit, MVP scope, and go-to-market basics.",
+        "intro": {
+          "en": "Technology strategy mentor guiding teams on market fit, MVP scope, and go-to-market basics.",
+          "zh-TW": "技術策略導師，協助團隊釐清市場契合度、MVP 範圍與基本上市策略。"
+        },
         "linkedin": "https://linkedin.com/in/kai-wu-tech",
         "personal_website": "https://kaiwu.example.com"
       }
@@ -39,25 +69,43 @@
     "members": [
       {
         "id": "member-amy-chen",
-        "name": "Amy Chen",
+        "name": {
+          "en": "Amy Chen",
+          "zh-TW": "陳艾咪"
+        },
         "image_link": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&q=80&w=1000",
-        "intro": "Student builder focused on SwiftUI, rapid prototyping, and interaction design.",
+        "intro": {
+          "en": "Student builder focused on SwiftUI, rapid prototyping, and interaction design.",
+          "zh-TW": "學生創作者，專注於 SwiftUI、快速原型與互動設計。"
+        },
         "ig": "https://instagram.com/amybuilds",
         "threads": "https://threads.net/@amybuilds"
       },
       {
         "id": "member-daniel-liu",
-        "name": "Daniel Liu",
+        "name": {
+          "en": "Daniel Liu",
+          "zh-TW": "劉丹尼"
+        },
         "image_link": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=1000",
-        "intro": "Backend and data workflow contributor, supporting API integration and deployment.",
+        "intro": {
+          "en": "Backend and data workflow contributor, supporting API integration and deployment.",
+          "zh-TW": "後端與資料流程協作者，負責 API 串接與部署支援。"
+        },
         "linkedin": "https://linkedin.com/in/daniel-liu-dev",
         "personal_website": "https://daniel.example.com"
       },
       {
         "id": "member-mia-liao",
-        "name": "Mia Liao",
+        "name": {
+          "en": "Mia Liao",
+          "zh-TW": "廖米雅"
+        },
         "image_link": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=1000",
-        "intro": "Design and storytelling contributor translating technical work into clear demos and pitches.",
+        "intro": {
+          "en": "Design and storytelling contributor translating technical work into clear demos and pitches.",
+          "zh-TW": "設計與敘事協作者，將技術成果轉化為清楚的展示與提案。"
+        },
         "ig": "https://instagram.com/miastorylab",
         "yt": "https://youtube.com/@miastorylab"
       }
@@ -66,49 +114,108 @@
   "events": [
     {
       "id": "event-ai-in-action-2026-03-15",
-      "event_name": "AI in Action: From Idea to Build",
+      "event_name": {
+        "en": "AI in Action: From Idea to Build",
+        "zh-TW": "原來 AI 可以這樣用：從想法到實作"
+      },
       "event_date": "2026-03-15",
-      "event_time": "13:30 - 16:30",
-      "location_name": "National Taiwan University",
+      "event_time": {
+        "en": "13:30 - 16:30",
+        "zh-TW": "13:30 - 16:30"
+      },
+      "location_name": {
+        "en": "National Taiwan University",
+        "zh-TW": "國立臺灣大學"
+      },
       "location_link": "https://maps.app.goo.gl/ntu-campus",
       "register_link": "https://forms.gle/sctc-demo-register",
-      "schedule": [
-        "Opening and community welcome",
-        "Why AI-native product thinking matters for students",
-        "Hands-on planning with AI for product scope",
-        "Xcode workflow walkthrough and Q&A"
-      ],
-      "notice": "Students joining this event receive priority consideration for Summer Camp seats."
+      "schedule": {
+        "en": [
+          "Opening and community welcome",
+          "Why AI-native product thinking matters for students",
+          "Hands-on planning with AI for product scope",
+          "Xcode workflow walkthrough and Q&A"
+        ],
+        "zh-TW": [
+          "開場與社群介紹",
+          "為什麼學生需要 AI 原生的產品思維",
+          "AI 協作規劃實作與需求範圍切分",
+          "Xcode 開發流程示範與現場問答"
+        ]
+      },
+      "notice": {
+        "en": "Students joining this event receive priority consideration for Summer Camp seats.",
+        "zh-TW": "參與本場活動的同學可優先取得 Summer Camp 參與資格。"
+      }
     },
     {
       "id": "event-zero-to-one-2026-05-31",
-      "event_name": "0 to 1 Builder Session",
+      "event_name": {
+        "en": "0 to 1 Builder Session",
+        "zh-TW": "我是怎麼從 0 做到 1：實作者分享場"
+      },
       "event_date": "2026-05-31",
-      "event_time": "13:30 - 17:00",
-      "location_name": "National Taiwan University",
+      "event_time": {
+        "en": "13:30 - 17:00",
+        "zh-TW": "13:30 - 17:00"
+      },
+      "location_name": {
+        "en": "National Taiwan University",
+        "zh-TW": "國立臺灣大學"
+      },
       "location_link": "https://maps.app.goo.gl/ntu-campus",
       "register_link": "https://forms.gle/sctc-zero-to-one",
-      "schedule": [
-        "Student team showcases from first prototypes",
-        "Mentor feedback on scope, tradeoffs, and execution",
-        "AI-assisted coding workflow clinic",
-        "Summer Camp project topic submission briefing"
-      ],
-      "notice": "Bring your current prototype or storyboard for live feedback."
+      "schedule": {
+        "en": [
+          "Student team showcases from first prototypes",
+          "Mentor feedback on scope, tradeoffs, and execution",
+          "AI-assisted coding workflow clinic",
+          "Summer Camp project topic submission briefing"
+        ],
+        "zh-TW": [
+          "學生團隊初版作品展示",
+          "導師回饋：範圍、取捨與執行",
+          "AI 協作開發流程門診",
+          "Summer Camp 題目提交流程說明"
+        ]
+      },
+      "notice": {
+        "en": "Bring your current prototype or storyboard for live feedback.",
+        "zh-TW": "請攜帶目前的原型或分鏡，現場可獲得即時回饋。"
+      }
     },
     {
       "id": "event-ios-ai-summer-camp-2026",
-      "event_name": "iOS AI Summer Camp 2026",
+      "event_name": {
+        "en": "iOS AI Summer Camp 2026",
+        "zh-TW": "iOS AI Summer Camp 2026"
+      },
       "event_date": "2026-07-15",
-      "event_time": "09:00 - 18:00 (3 Days)",
-      "location_name": "National Taiwan University",
+      "event_time": {
+        "en": "09:00 - 18:00 (3 Days)",
+        "zh-TW": "09:00 - 18:00（共三天）"
+      },
+      "location_name": {
+        "en": "National Taiwan University",
+        "zh-TW": "國立臺灣大學"
+      },
       "location_link": "https://maps.app.goo.gl/ntu-campus",
-      "schedule": [
-        "Day 1: Team formation, product framing, and architecture planning",
-        "Day 2: Build sprint with mentor checkpoints",
-        "Day 3: Demo polish, judging, and public showcase"
-      ],
-      "notice": "Register link will be published after team shortlisting is completed."
+      "schedule": {
+        "en": [
+          "Day 1: Team formation, product framing, and architecture planning",
+          "Day 2: Build sprint with mentor checkpoints",
+          "Day 3: Demo polish, judging, and public showcase"
+        ],
+        "zh-TW": [
+          "Day 1：組隊、產品定義與架構規劃",
+          "Day 2：開發衝刺與導師檢核",
+          "Day 3：成果打磨、評選與公開展示"
+        ]
+      },
+      "notice": {
+        "en": "Register link will be published after team shortlisting is completed.",
+        "zh-TW": "報名連結將於團隊篩選完成後公布。"
+      }
     }
   ],
   "social": {
@@ -118,44 +225,94 @@
     "email_link": "mailto:sctc.tw@gmail.com"
   },
   "vision": {
-    "why_exist": [
-      "AI is changing how software is built, but students often lack a practical path from tool usage to product ownership.",
-      "We exist to provide that path: structured mentorship, cross-domain collaboration, and a real build environment where ideas become working products."
-    ],
-    "what_doing": [
-      "Run practical sessions that combine product thinking, AI workflows, and iOS implementation.",
-      "Support student teams with mentor checkpoints, technical reviews, and iteration plans.",
-      "Publish student stories and build logs to create reusable learning assets for the next cohort.",
-      "Connect students with industry mentors and peers through a long-term builder community."
-    ]
+    "why_exist": {
+      "en": [
+        "AI is changing how software is built, but students often lack a practical path from tool usage to product ownership.",
+        "We exist to provide that path: structured mentorship, cross-domain collaboration, and a real build environment where ideas become working products."
+      ],
+      "zh-TW": [
+        "AI 正在改變軟體開發方式，但多數學生仍缺乏從工具使用者成長為產品實作者的清晰路徑。",
+        "我們的存在，就是提供這條路：有結構的導師制度、跨域協作與真實的實作環境，讓想法變成可運作的產品。"
+      ]
+    },
+    "what_doing": {
+      "en": [
+        "Run practical sessions that combine product thinking, AI workflows, and iOS implementation.",
+        "Support student teams with mentor checkpoints, technical reviews, and iteration plans.",
+        "Publish student stories and build logs to create reusable learning assets for the next cohort.",
+        "Connect students with industry mentors and peers through a long-term builder community."
+      ],
+      "zh-TW": [
+        "舉辦結合產品思維、AI 工作流程與 iOS 實作的訓練活動。",
+        "透過導師檢核、技術審查與迭代計畫支援學生團隊。",
+        "持續發布學生故事與開發紀錄，累積可重用的學習資產。",
+        "建立長期創作者社群，連結學生、業界導師與同儕資源。"
+      ]
+    }
   },
   "stories": [
     {
       "id": "first-prototype-weekend",
       "publish_date": "2026-02-15",
-      "publisher": "Amy Chen",
+      "publisher": {
+        "en": "Amy Chen",
+        "zh-TW": "陳艾咪"
+      },
       "image_link": "https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&q=80&w=1400",
-      "title": "Building Our First AI Prototype in One Weekend",
-      "sub_title": "How a small student team moved from uncertain idea to a testable app flow.",
-      "markdown_path": "stories/first-prototype-weekend.md"
+      "title": {
+        "en": "Building Our First AI Prototype in One Weekend",
+        "zh-TW": "我們如何在一個週末完成第一個 AI 原型"
+      },
+      "sub_title": {
+        "en": "How a small student team moved from uncertain idea to a testable app flow.",
+        "zh-TW": "一個小型學生團隊如何從模糊想法走到可測試的 App 流程。"
+      },
+      "markdown_path": {
+        "en": "stories/first-prototype-weekend.en.md",
+        "zh-TW": "stories/first-prototype-weekend.zh-TW.md"
+      }
     },
     {
       "id": "zero-to-one-lessons",
       "publish_date": "2026-01-20",
-      "publisher": "Daniel Liu",
+      "publisher": {
+        "en": "Daniel Liu",
+        "zh-TW": "劉丹尼"
+      },
       "image_link": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1400",
-      "title": "Zero to One Lessons from Student Product Building",
-      "sub_title": "The execution habits that helped us ship instead of over-planning.",
-      "markdown_path": "stories/zero-to-one-lessons.md"
+      "title": {
+        "en": "Zero to One Lessons from Student Product Building",
+        "zh-TW": "學生從 0 到 1 做產品的關鍵學習"
+      },
+      "sub_title": {
+        "en": "The execution habits that helped us ship instead of over-planning.",
+        "zh-TW": "讓團隊不再過度規劃、而是真的交付成果的執行習慣。"
+      },
+      "markdown_path": {
+        "en": "stories/zero-to-one-lessons.en.md",
+        "zh-TW": "stories/zero-to-one-lessons.zh-TW.md"
+      }
     },
     {
       "id": "open-community-building",
       "publish_date": "2025-11-05",
-      "publisher": "Mia Liao",
+      "publisher": {
+        "en": "Mia Liao",
+        "zh-TW": "廖米雅"
+      },
       "image_link": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1400",
-      "title": "Why Open Community Matters for Young Builders",
-      "sub_title": "What we learned by sharing unfinished work in public.",
-      "markdown_path": "stories/open-community-building.md"
+      "title": {
+        "en": "Why Open Community Matters for Young Builders",
+        "zh-TW": "為什麼公開社群對年輕創作者很重要"
+      },
+      "sub_title": {
+        "en": "What we learned by sharing unfinished work in public.",
+        "zh-TW": "從公開分享未完成作品中，我們學到的關鍵經驗。"
+      },
+      "markdown_path": {
+        "en": "stories/open-community-building.en.md",
+        "zh-TW": "stories/open-community-building.zh-TW.md"
+      }
     }
   ]
 }
