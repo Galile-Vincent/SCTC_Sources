@@ -1,0 +1,161 @@
+{
+  "community": {
+    "abbreviation": "SCTC × NTU RTC",
+    "full_name": "Student Creator Taiwan Community × NTU Apple Regional Training Center"
+  },
+  "community_name": "Student Creator Taiwan Community × NTU Apple RTC",
+  "community_subtitle": "A six-month hybrid learning journey that helps students move from using AI tools to building AI-powered products with purpose.",
+  "members": {
+    "mentors": [
+      {
+        "id": "mentor-vincent-lin",
+        "name": "Vincent Lin",
+        "image_link": "https://images.unsplash.com/photo-1556157382-97eda2d62296?auto=format&fit=crop&q=80&w=1000",
+        "intro": "Community lead focusing on product direction, iOS development workflow, and student team coaching.",
+        "ig": "https://instagram.com/galile_vincent",
+        "yt": "https://youtube.com/@galilevincent",
+        "linkedin": "https://linkedin.com/in/galile-vincent",
+        "threads": "https://threads.net/@galile_vincent",
+        "personal_website": "https://galile.example.com"
+      },
+      {
+        "id": "mentor-jane-hsu",
+        "name": "Jane Hsu",
+        "image_link": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=1000",
+        "intro": "AI educator and content strategist helping students turn technical ideas into clear user narratives.",
+        "ig": "https://instagram.com/janeai",
+        "linkedin": "https://linkedin.com/in/jane-hsu-ai",
+        "threads": "https://threads.net/@janeai"
+      },
+      {
+        "id": "mentor-kai-wu",
+        "name": "Kai Wu",
+        "image_link": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=1000",
+        "intro": "Technology strategy mentor guiding teams on market fit, MVP scope, and go-to-market basics.",
+        "linkedin": "https://linkedin.com/in/kai-wu-tech",
+        "personal_website": "https://kaiwu.example.com"
+      }
+    ],
+    "members": [
+      {
+        "id": "member-amy-chen",
+        "name": "Amy Chen",
+        "image_link": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&q=80&w=1000",
+        "intro": "Student builder focused on SwiftUI, rapid prototyping, and interaction design.",
+        "ig": "https://instagram.com/amybuilds",
+        "threads": "https://threads.net/@amybuilds"
+      },
+      {
+        "id": "member-daniel-liu",
+        "name": "Daniel Liu",
+        "image_link": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=1000",
+        "intro": "Backend and data workflow contributor, supporting API integration and deployment.",
+        "linkedin": "https://linkedin.com/in/daniel-liu-dev",
+        "personal_website": "https://daniel.example.com"
+      },
+      {
+        "id": "member-mia-liao",
+        "name": "Mia Liao",
+        "image_link": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=1000",
+        "intro": "Design and storytelling contributor translating technical work into clear demos and pitches.",
+        "ig": "https://instagram.com/miastorylab",
+        "yt": "https://youtube.com/@miastorylab"
+      }
+    ]
+  },
+  "events": [
+    {
+      "id": "event-ai-in-action-2026-03-15",
+      "event_name": "AI in Action: From Idea to Build",
+      "event_date": "2026-03-15",
+      "event_time": "13:30 - 16:30",
+      "location_name": "National Taiwan University",
+      "location_link": "https://maps.app.goo.gl/ntu-campus",
+      "register_link": "https://forms.gle/sctc-demo-register",
+      "schedule": [
+        "Opening and community welcome",
+        "Why AI-native product thinking matters for students",
+        "Hands-on planning with AI for product scope",
+        "Xcode workflow walkthrough and Q&A"
+      ],
+      "notice": "Students joining this event receive priority consideration for Summer Camp seats."
+    },
+    {
+      "id": "event-zero-to-one-2026-05-31",
+      "event_name": "0 to 1 Builder Session",
+      "event_date": "2026-05-31",
+      "event_time": "13:30 - 17:00",
+      "location_name": "National Taiwan University",
+      "location_link": "https://maps.app.goo.gl/ntu-campus",
+      "register_link": "https://forms.gle/sctc-zero-to-one",
+      "schedule": [
+        "Student team showcases from first prototypes",
+        "Mentor feedback on scope, tradeoffs, and execution",
+        "AI-assisted coding workflow clinic",
+        "Summer Camp project topic submission briefing"
+      ],
+      "notice": "Bring your current prototype or storyboard for live feedback."
+    },
+    {
+      "id": "event-ios-ai-summer-camp-2026",
+      "event_name": "iOS AI Summer Camp 2026",
+      "event_date": "2026-07-15",
+      "event_time": "09:00 - 18:00 (3 Days)",
+      "location_name": "National Taiwan University",
+      "location_link": "https://maps.app.goo.gl/ntu-campus",
+      "schedule": [
+        "Day 1: Team formation, product framing, and architecture planning",
+        "Day 2: Build sprint with mentor checkpoints",
+        "Day 3: Demo polish, judging, and public showcase"
+      ],
+      "notice": "Register link will be published after team shortlisting is completed."
+    }
+  ],
+  "social": {
+    "ig": "https://instagram.com/sctc.tw",
+    "threads": "https://threads.net/@sctc.tw",
+    "discord": "https://discord.gg/sctc",
+    "email_link": "mailto:sctc.tw@gmail.com"
+  },
+  "vision": {
+    "why_exist": [
+      "AI is changing how software is built, but students often lack a practical path from tool usage to product ownership.",
+      "We exist to provide that path: structured mentorship, cross-domain collaboration, and a real build environment where ideas become working products."
+    ],
+    "what_doing": [
+      "Run practical sessions that combine product thinking, AI workflows, and iOS implementation.",
+      "Support student teams with mentor checkpoints, technical reviews, and iteration plans.",
+      "Publish student stories and build logs to create reusable learning assets for the next cohort.",
+      "Connect students with industry mentors and peers through a long-term builder community."
+    ]
+  },
+  "stories": [
+    {
+      "id": "first-prototype-weekend",
+      "publish_date": "2026-02-15",
+      "publisher": "Amy Chen",
+      "image_link": "https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&q=80&w=1400",
+      "title": "Building Our First AI Prototype in One Weekend",
+      "sub_title": "How a small student team moved from uncertain idea to a testable app flow.",
+      "markdown_path": "stories/first-prototype-weekend.md"
+    },
+    {
+      "id": "zero-to-one-lessons",
+      "publish_date": "2026-01-20",
+      "publisher": "Daniel Liu",
+      "image_link": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1400",
+      "title": "Zero to One Lessons from Student Product Building",
+      "sub_title": "The execution habits that helped us ship instead of over-planning.",
+      "markdown_path": "stories/zero-to-one-lessons.md"
+    },
+    {
+      "id": "open-community-building",
+      "publish_date": "2025-11-05",
+      "publisher": "Mia Liao",
+      "image_link": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1400",
+      "title": "Why Open Community Matters for Young Builders",
+      "sub_title": "What we learned by sharing unfinished work in public.",
+      "markdown_path": "stories/open-community-building.md"
+    }
+  ]
+}
