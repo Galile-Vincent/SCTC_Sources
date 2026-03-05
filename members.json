@@ -19,11 +19,13 @@
           "en": "Jane",
           "zh-TW": "Jane"
         },
-        "image_link": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=1000",
+        "image_link": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/jane.jpg",
         "intro": {
-          "en": "AI Developer Community Content Creator Leader",
-          "zh-TW": "AI 開發者社群內容創作者領導者"
-        }
+          "en": "iOS & AI Developer Community & Content Creator Leader",
+          "zh-TW": "iOS & AI 開發者社群、內容創作者領導者"
+        },
+        "x": "https://x.com/janechao_dev",
+        "youtube": "https://www.youtube.com/@ChaoCode"
       },
       {
         "id": "mentor-kai",
