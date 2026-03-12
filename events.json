@@ -48,10 +48,10 @@
         "zh-TW": "13:30 - 17:00"
       },
       "location_name": {
-        "en": "National Taiwan University",
-        "zh-TW": "國立臺灣大學"
+        "en": "TBA",
+        "zh-TW": "待確認"
       },
-      "location_link": "https://maps.app.goo.gl/ntu-campus",
+      "location_link": "",
       "schedule": {
         "en": [
           "Student team showcases from first prototypes",
