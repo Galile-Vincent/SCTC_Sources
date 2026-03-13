@@ -9,9 +9,12 @@
         },
         "image_link": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/13.jpeg",
         "intro": {
-          "en": "Enterprise Developer Department Senior Manager",
-          "zh-TW": "企業開發者部門資深經理"
-        }
+          "en": "Senior iOS Developer",
+          "zh-TW": "資深 iOS 工程師、13 報主編"
+        },
+        "twitter": "https://x.com/ethanhuang13",
+        "threads": "https://threads.net/@ethanhuang13",
+        "yt": "https://www.youtube.com/@ethanhuang13"
       },
       {
         "id": "mentor-jane",
@@ -25,7 +28,7 @@
           "zh-TW": "iOS & AI 開發者社群、內容創作者領導者"
         },
         "x": "https://x.com/janechao_dev",
-        "youtube": "https://www.youtube.com/@ChaoCode"
+        "yt": "https://www.youtube.com/@ChaoCode"
       },
       {
         "id": "mentor-kai",
