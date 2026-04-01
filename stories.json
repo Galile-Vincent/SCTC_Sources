@@ -1,23 +1,23 @@
 {
   "stories": [
     {
-      "id": "first-prototype-weekend",
-      "publish_date": "2026-02-15",
+      "id": "vcook-1",
+      "publish_date": "2026-04-01",
       "publisher": {
-        "en": "Amy Chen",
-        "zh-TW": "陳艾咪"
+        "en": "Vincent Chiang",
+        "zh-TW": "Vincent Chiang"
       },
-      "image_link": "https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&q=80&w=1400",
+      "image_link": "https://github.com/user-attachments/assets/ea6b4d52-8c08-4459-b032-d669125beb86",
       "title": {
-        "en": "Building Our First AI Prototype in One Weekend",
-        "zh-TW": "我們如何在一個週末完成第一個 AI 原型"
+        "en": "Why & How I build VCook",
+        "zh-TW": "我為什麼以及如何打造VCook"
       },
       "sub_title": {
-        "en": "How a small student team moved from uncertain idea to a testable app flow.",
-        "zh-TW": "一個小型學生團隊如何從模糊想法走到可測試的 App 流程。"
+        "en": "Story about how I build the MAIC First Place app VCook. And why I started build it.",
+        "zh-TW": "關於我為何開始打造VCook，並且獲得MAIC一等獎的殊榮。"
       },
       "markdown_path": {
-        "en": "stories/first-prototype-weekend.en.md",
+        "en": "stories/vcook.en.md",
         "zh-TW": "stories/first-prototype-weekend.zh-TW.md"
       }
     },
