@@ -1,6 +1,6 @@
 # The Story of Building VCook
 
-![img 001](https://github.com/user-attachments/assets/ea6b4d52-8c08-4459-b032-d669125beb86)
+![img 001](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/vcook.png)
 
 I built VCook because of my mom.
 
