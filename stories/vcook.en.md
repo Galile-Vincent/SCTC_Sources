@@ -1,6 +1,6 @@
 # The Story of Building VCook
 
-<img width="1920" height="1080" alt="img 001" src="https://github.com/user-attachments/assets/ea6b4d52-8c08-4459-b032-d669125beb86" />
+![img 001](https://github.com/user-attachments/assets/ea6b4d52-8c08-4459-b032-d669125beb86)
 
 I built VCook because of my mom.
 
