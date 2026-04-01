@@ -84,18 +84,6 @@
           "zh-TW": "免費的 NLP 與 Transformer 學習資源，含實作 notebook 與專案。"
         },
         "url": "https://huggingface.co/learn"
-      },
-      {
-        "id": "open-source-ios-projects",
-        "title": {
-          "en": "Open source iOS app examples",
-          "zh-TW": "開源 iOS App 範例"
-        },
-        "description": {
-          "en": "Curated open-source iOS projects for code reading and architecture learning.",
-          "zh-TW": "精選開源 iOS 專案，適合程式碼閱讀與架構學習。"
-        },
-        "url": "https://github.com/dkhamsing/open-source-ios-apps"
       }
     ]
   }
