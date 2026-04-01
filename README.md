@@ -10,6 +10,7 @@ Public content source repository for the TSAIC website.
 - `social.json`: social/contact links
 - `vision.json`: mission and direction content
 - `stories.json`: story metadata
+- `resources.json`: recommended videos, articles, and other learning links
 - `stories/*.md`: markdown story articles referenced by `stories.json -> stories[].markdown_path`
 
 ## Bilingual Content (English + Traditional Chinese)
@@ -77,6 +78,25 @@ Recommended `markdown_path` format:
 
 - English: `stories/<slug>.en.md`
 - Chinese: `stories/<slug>.zh-TW.md`
+
+### Resources
+
+- `resources.videos[]`:
+  - `id`
+  - `title` (localized supported)
+  - `description` (localized supported)
+  - `youtube_embed_url` (YouTube embed URL format)
+- `resources.articles[]`:
+  - `id`
+  - `title` (localized supported)
+  - `description` (localized supported)
+  - `url`
+  - optional: `source` (localized supported)
+- `resources.others[]`:
+  - `id`
+  - `title` (localized supported)
+  - `description` (localized supported)
+  - `url`
 
 ### Community
 

@@ -1,0 +1,102 @@
+{
+  "resources": {
+    "videos": [
+      {
+        "id": "openai-api-intro",
+        "title": {
+          "en": "Build intelligent apps with the OpenAI API",
+          "zh-TW": "用 OpenAI API 打造智慧應用"
+        },
+        "description": {
+          "en": "A practical intro for app builders on integrating modern AI capabilities into products.",
+          "zh-TW": "給應用開發者的實作導覽：如何把現代 AI 能力整合進產品。"
+        },
+        "youtube_embed_url": "https://www.youtube.com/embed/8l8fpR7xMEQ"
+      },
+      {
+        "id": "swiftui-tutorial-basics",
+        "title": {
+          "en": "SwiftUI essentials for iOS developers",
+          "zh-TW": "iOS 開發者必備的 SwiftUI 基礎"
+        },
+        "description": {
+          "en": "Covers core SwiftUI mental models and workflows to help students ship faster.",
+          "zh-TW": "掌握 SwiftUI 的核心觀念與開發流程，幫助學生更快完成作品。"
+        },
+        "youtube_embed_url": "https://www.youtube.com/embed/F2ojC6TNwws"
+      }
+    ],
+    "articles": [
+      {
+        "id": "prompt-engineering-guide",
+        "title": {
+          "en": "Prompt engineering best practices",
+          "zh-TW": "Prompt Engineering 最佳實務"
+        },
+        "description": {
+          "en": "Reliable patterns for writing prompts that are easier to test, debug, and iterate.",
+          "zh-TW": "讓提示詞更容易測試、除錯與迭代的可靠設計模式。"
+        },
+        "source": {
+          "en": "OpenAI Docs",
+          "zh-TW": "OpenAI 文件"
+        },
+        "url": "https://platform.openai.com/docs/guides/prompt-engineering"
+      },
+      {
+        "id": "apple-ml-overview",
+        "title": {
+          "en": "Create ML and Core ML overview",
+          "zh-TW": "Create ML 與 Core ML 介紹"
+        },
+        "description": {
+          "en": "Learn how Apple machine learning tools fit into on-device app experiences.",
+          "zh-TW": "了解 Apple 機器學習工具如何支援裝置端應用體驗。"
+        },
+        "source": {
+          "en": "Apple Developer",
+          "zh-TW": "Apple 開發者"
+        },
+        "url": "https://developer.apple.com/machine-learning/"
+      }
+    ],
+    "others": [
+      {
+        "id": "apple-developer-documentation",
+        "title": {
+          "en": "Apple Developer Documentation",
+          "zh-TW": "Apple 開發者文件"
+        },
+        "description": {
+          "en": "Official references for Swift, SwiftUI, iOS frameworks, and platform APIs.",
+          "zh-TW": "Swift、SwiftUI、iOS Framework 與平台 API 的官方參考文件。"
+        },
+        "url": "https://developer.apple.com/documentation/"
+      },
+      {
+        "id": "hugging-face-course",
+        "title": {
+          "en": "Hugging Face Course",
+          "zh-TW": "Hugging Face 課程"
+        },
+        "description": {
+          "en": "Free NLP and transformer learning resources with practical notebooks and projects.",
+          "zh-TW": "免費的 NLP 與 Transformer 學習資源，含實作 notebook 與專案。"
+        },
+        "url": "https://huggingface.co/learn"
+      },
+      {
+        "id": "open-source-ios-projects",
+        "title": {
+          "en": "Open source iOS app examples",
+          "zh-TW": "開源 iOS App 範例"
+        },
+        "description": {
+          "en": "Curated open-source iOS projects for code reading and architecture learning.",
+          "zh-TW": "精選開源 iOS 專案，適合程式碼閱讀與架構學習。"
+        },
+        "url": "https://github.com/dkhamsing/open-source-ios-apps"
+      }
+    ]
+  }
+}
