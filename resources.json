@@ -4,26 +4,26 @@
       {
         "id": "openai-api-intro",
         "title": {
-          "en": "Build intelligent apps with the OpenAI API",
-          "zh-TW": "用 OpenAI API 打造智慧應用"
+          "en": "How to work and build with AI",
+          "zh-TW": "如何打造以及和AI協作"
         },
         "description": {
-          "en": "A practical intro for app builders on integrating modern AI capabilities into products.",
-          "zh-TW": "給應用開發者的實作導覽：如何把現代 AI 能力整合進產品。"
+          "en": "From the very basics of what AI is, to how to communicate with AI, to how to build software using AI — all from the CS146S course at Stanford University.",
+          "zh-TW": "從最基礎的AI是什麼，到如何與AI溝通，到如何用AI打造軟體。來自史丹佛的CS146S課程。"
         },
-        "youtube_embed_url": "https://www.youtube.com/embed/8l8fpR7xMEQ"
+        "youtube_embed_url": "https://www.youtube.com/embed/nddvrdLTmfM?si=XBv8SQKnrI8SYC9E"
       },
       {
         "id": "swiftui-tutorial-basics",
         "title": {
-          "en": "SwiftUI essentials for iOS developers",
-          "zh-TW": "iOS 開發者必備的 SwiftUI 基礎"
+          "en": "How to use local model on Apple's device",
+          "zh-TW": "如何在Apple裝置上使用本地模型"
         },
         "description": {
-          "en": "Covers core SwiftUI mental models and workflows to help students ship faster.",
-          "zh-TW": "掌握 SwiftUI 的核心觀念與開發流程，幫助學生更快完成作品。"
+          "en": "An introduction to the Apple's MLX framework. How to use it to run local model on Apple's device.",
+          "zh-TW": "介紹Apple的MLX框架，如何利用他在Apple裝置上運行本地模型。"
         },
-        "youtube_embed_url": "https://www.youtube.com/embed/F2ojC6TNwws"
+        "youtube_embed_url": "https://www.youtube.com/embed/KJ_DlqwJVIc?si=t3tzC7TUQDy1AudR"
       }
     ],
     "articles": [
