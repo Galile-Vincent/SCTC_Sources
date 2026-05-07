@@ -46,26 +46,27 @@
       },
       "event_date": "2026-05-31",
       "event_time": {
-        "en": "13:30 - 17:00",
-        "zh-TW": "13:30 - 17:00"
+        "en": "14:00 - 16:30",
+        "zh-TW": "14:00 - 16:30"
       },
       "location_name": {
-        "en": "TBA",
-        "zh-TW": "待確認"
+        "en": "National Taiwan University",
+        "zh-TW": "國立臺灣大學"
       },
-      "location_link": "",
+      "location_link": "https://maps.app.goo.gl/ntu-campus",
+      "register_link": "https://luma.com/hjbtslbp",
       "schedule": {
         "en": [
-          "Student team showcases from first prototypes",
-          "Mentor feedback on scope, tradeoffs, and execution",
-          "AI-assisted coding workflow clinic",
-          "Summer Camp project topic submission briefing"
+          "Opening and community welcome",
+          "Why AI-native product thinking matters for students",
+          "Hands-on planning with AI for product scope",
+          "Xcode workflow walkthrough and Q&A"
         ],
         "zh-TW": [
-          "學生團隊初版作品展示",
-          "導師回饋：範圍、取捨與執行",
-          "AI 協作開發流程門診",
-          "Summer Camp 題目提交流程說明"
+          "開場與社群介紹",
+          "為什麼學生需要 AI 原生的產品思維",
+          "AI 協作規劃實作與需求範圍切分",
+          "Xcode 開發流程示範與現場問答"
         ]
       },
       "notice": {
