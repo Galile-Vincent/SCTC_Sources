@@ -28,6 +28,22 @@
     ],
     "articles": [
       {
+        "id": "13-article-free",
+        "title": {
+          "en": "iOS Development Roadmap",
+          "zh-TW": "iOS開發補完計劃"
+        },
+        "description": {
+          "en": "A free column by Instructor 13: ideas, knowledge, and miscellaneous thoughts that AI won’t teach you.",
+          "zh-TW": "來自13講師的免費專欄：AI 不會教的觀念、知識、雜談。"
+        },
+        "source": {
+          "en": "iOS Development Roadmap",
+          "zh-TW": "iOS開發補完計劃"
+        },
+        "url": "https://ethanhuang13.plus/tag/ios-missing-manual/"
+      },
+      {
         "id": "prompt-engineering-guide",
         "title": {
           "en": "Prompt engineering best practices",
@@ -61,18 +77,6 @@
       }
     ],
     "others": [
-      {
-        "id": "13-news",
-        "title": {
-          "en": "iOS Development Roadmap",
-          "zh-TW": "iOS開發補完計劃"
-        },
-        "description": {
-          "en": "free column by Instructor 13: ideas, knowledge, and miscellaneous thoughts that AI won’t teach you.",
-          "zh-TW": "來自13講師的免費專欄：AI 不會教的觀念、知識、雜談。"
-        },
-        "url": "https://ethanhuang13.plus/tag/ios-missing-manual/"
-      },
       {
         "id": "apple-developer-documentation",
         "title": {
