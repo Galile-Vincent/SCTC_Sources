@@ -20,6 +20,7 @@
   "submissions": [
     {
       "id": "a84f05c8-07e2-42a6-b159-453096f51e32",
+      "member_count": 3,
       "team_id": "3f0f0552-f154-43ee-baec-ae33072c995d",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Packmon: Your Travel Packing Partner",
@@ -56,6 +57,7 @@
     },
     {
       "id": "a4908b7a-287f-48cf-89bd-1b30cb91e588",
+      "member_count": 5,
       "team_id": "b857fdd0-317e-49c1-8721-69ef0d382519",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Huayu",
@@ -92,6 +94,7 @@
     },
     {
       "id": "4210585f-50f8-4399-8fe8-d180d920a21c",
+      "member_count": 4,
       "team_id": "7edd4ca7-e2fa-4d84-b3f9-c910a00112cd",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Slacker Roll Call",
@@ -128,6 +131,7 @@
     },
     {
       "id": "15ddd76a-0e65-45a2-af22-8914e5bf92bf",
+      "member_count": 2,
       "team_id": "41bddb5c-607b-43ec-9bd6-9fbbef6cdf9b",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "DanceMate",
@@ -164,6 +168,7 @@
     },
     {
       "id": "9758cb52-1a10-463e-a878-ff786492cd5d",
+      "member_count": 4,
       "team_id": "4b0edcdd-3b1f-4ac0-b10c-b60732543afc",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "TrailUp",
@@ -199,6 +204,7 @@
     },
     {
       "id": "4f9f2047-6b67-4c7d-bf5a-2d0282d93e35",
+      "member_count": 3,
       "team_id": "01d0b7e9-c8d6-47f2-a792-8351cfd0de52",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Snoots!",
@@ -235,6 +241,7 @@
     },
     {
       "id": "9f24858b-00e0-4257-bc5e-a2a13de56e49",
+      "member_count": 2,
       "team_id": "5848d4b4-fc21-4e33-832d-271ddc6bdf10",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "HavenCircle",
@@ -271,6 +278,7 @@
     },
     {
       "id": "647e9c9d-1b4e-4bf2-9878-130eed384f98",
+      "member_count": 3,
       "team_id": "8f2a91a0-8244-4f06-8cd6-e19adef4d981",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Firstgram",
@@ -307,6 +315,7 @@
     },
     {
       "id": "7ea31b13-2c7e-4776-9698-46b0202afa58",
+      "member_count": 2,
       "team_id": "dbe8b62b-396f-484b-bca2-f444e06aa8f6",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "EatVege",
@@ -343,6 +352,7 @@
     },
     {
       "id": "d6591447-2e93-4ed5-8d06-fbecb7d2a5d2",
+      "member_count": 5,
       "team_id": "64889556-43c3-443c-b26d-e56bdacee911",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "PillScan 藥記師",
@@ -379,6 +389,7 @@
     },
     {
       "id": "0b3c768d-7857-4fc2-bc82-6a2cab256f5d",
+      "member_count": 2,
       "team_id": "c019ef88-55dd-4e22-a4dd-e324b732ecb3",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "QuoteSource",
@@ -415,6 +426,7 @@
     },
     {
       "id": "1fcff0ba-3c96-40aa-be6c-f1c040265c19",
+      "member_count": 3,
       "team_id": "604af849-7886-4455-8a49-07f3bf8e78ad",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "TalkFit",
@@ -451,6 +463,7 @@
     },
     {
       "id": "b6e75a86-40da-4564-bc93-6df3d04b630f",
+      "member_count": 4,
       "team_id": "a975dba1-f3f4-4c05-9e28-9d29c3e6d932",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Join Me",
@@ -486,6 +499,7 @@
     },
     {
       "id": "b7463699-e731-44db-9cb6-2c6b7b4f798f",
+      "member_count": 4,
       "team_id": "ae76625b-f52a-4e6f-91d5-5f4228f217b1",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Nomori",
@@ -522,6 +536,7 @@
     },
     {
       "id": "04c9cb66-a883-4ece-8200-e57e8c2df41c",
+      "member_count": 2,
       "team_id": "d3a55bc3-b277-46a0-b7f1-56eb7c9cedff",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "VocabStash",
@@ -558,6 +573,7 @@
     },
     {
       "id": "19e64689-24f2-4747-836b-68dafa69c350",
+      "member_count": 5,
       "team_id": "f679d665-854a-4625-861c-2dd03fc2f1f2",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Tailor",
@@ -594,6 +610,7 @@
     },
     {
       "id": "9220dab4-cc7a-4445-94be-c1ce51984231",
+      "member_count": 3,
       "team_id": "23595794-b3e1-45ed-8f57-d721a424bbf0",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "PayReview",
@@ -630,6 +647,7 @@
     },
     {
       "id": "abd8da2f-faa3-4dcc-84e9-66d42c0dac5a",
+      "member_count": 5,
       "team_id": "aa9bd1c8-a5d7-4e69-b9d6-390096a33c09",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "indueiOS",
@@ -665,6 +683,7 @@
     },
     {
       "id": "4ce880db-adef-442e-8426-20ca0f1bdd45",
+      "member_count": 2,
       "team_id": "81c978a1-702e-4adf-81c7-e78098d15146",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "Journey Planner",
@@ -699,6 +718,7 @@
     },
     {
       "id": "f82d3ac0-8ca1-462c-89e3-efb4c53b9316",
+      "member_count": 5,
       "team_id": "dfd88c1e-a9dd-4081-b2ff-1533c2c018d1",
       "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
       "name": "作伙 Tso-hue",
