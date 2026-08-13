@@ -11,6 +11,7 @@ Public content source repository for the TSAIC website.
 - `vision.json`: mission and direction content
 - `stories.json`: story metadata
 - `resources.json`: recommended videos, articles, and other learning links
+- `submissions.json`: published submission gallery, event metadata, and gallery settings
 - `stories/*.md`: markdown story articles referenced by `stories.json -> stories[].markdown_path`
 
 ## Bilingual Content (English + Traditional Chinese)
@@ -97,6 +98,28 @@ Recommended `markdown_path` format:
   - `title` (localized supported)
   - `description` (localized supported)
   - `url`
+
+### Published submissions
+
+`submissions.json` is the source of truth for the public `/apps`, `/apps/:id`,
+and home-page judge-results views. It uses this shape:
+
+```json
+{
+  "events": [{ "id": "...", "name": "...", "is_open": false, "is_pinned": true }],
+  "settings": [{ "event_id": "...", "voting_enabled": false, "rankings_revealed": true, "gallery_layout": "showcase" }],
+  "submissions": [{ "id": "...", "event_id": "...", "name": "...", "intro": "..." }]
+}
+```
+
+Keep the submission `id` stable: it is used in public app URLs. Published media
+URLs, localized `name`/`intro`, rankings, and finalist fields are all read from
+this file. Changes are visible after the GitHub update is deployed; no Supabase
+read is made by the public gallery.
+
+Submission icons and screenshots live under `img/submissions/<submission-id>/`.
+Use the corresponding GitHub Raw URLs in `submissions.json`, following the same
+public-image pattern as the other source files.
 
 ### Community
 

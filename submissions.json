@@ -1,0 +1,737 @@
+{
+  "events": [
+    {
+      "id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "iOS AI Summer Camp 2026",
+      "is_open": true,
+      "is_pinned": true
+    }
+  ],
+  "settings": [
+    {
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "voting_enabled": false,
+      "max_votes_per_user": 5,
+      "allow_self_vote": false,
+      "rankings_revealed": true,
+      "gallery_layout": "showcase"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "a84f05c8-07e2-42a6-b159-453096f51e32",
+      "team_id": "3f0f0552-f154-43ee-baec-ae33072c995d",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Packmon: Your Travel Packing Partner",
+      "team_name": "TravelGenius",
+      "category": "Travel",
+      "intro": "Packmon creates a personalized packing list based on your destination, trip length, and travel style. It also highlights customs restrictions and high-risk items before departure, helping you pack what you need and avoid what you should not bring.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a84f05c8-07e2-42a6-b159-453096f51e32/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a84f05c8-07e2-42a6-b159-453096f51e32/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a84f05c8-07e2-42a6-b159-453096f51e32/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a84f05c8-07e2-42a6-b159-453096f51e32/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a84f05c8-07e2-42a6-b159-453096f51e32/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a84f05c8-07e2-42a6-b159-453096f51e32/screenshot-5.png"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://packmon-travel.chenimin1006.chatgpt.site",
+      "localizations": {
+        "en": {
+          "name": "Packmon: Your Travel Packing Partner",
+          "intro": "Packmon creates a personalized packing list based on your destination, trip length, and travel style. It also highlights customs restrictions and high-risk items before departure, helping you pack what you need and avoid what you should not bring."
+        },
+        "zh-TW": {
+          "name": "Packmon：你的旅行打包好夥伴",
+          "intro": "Packmon 會依照目的地、旅行天數與行程類型，為你整理個人化行李清單，並在出發前提醒當地的海關限制與高風險物品。從準備行李到安心入境，每一步都不漏帶，也不帶錯。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": 1,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "a4908b7a-287f-48cf-89bd-1b30cb91e588",
+      "team_id": "b857fdd0-317e-49c1-8721-69ef0d382519",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Huayu",
+      "team_name": "你是我的花朵",
+      "category": "Lifestyle",
+      "intro": "What colour is the person who matters to you?\nThe warm orange of sunlight, or a blue that puts you at ease?\nWe can always feel what makes someone singular —\nwe just don't always know how to say it out loud.\n\n\"Huayu\" echoes 花語, the language of flowers, and also reads as \"flowers, given to you.\"\nIt is a design tool that uses AI to turn what you feel into a bouquet.\n\nTell it their personality, the story between you, the colours they love, the occasion and your budget,\nand Huayu draws on flower meanings, colour psychology and floral style\nto compose a bouquet proposal and a mood image made only for them.\n\nHuayu connects you with local florists, so the bouquet arrives closer to the one in your head, and so saying what you want takes less back and forth.\nIt also remembers birthdays, anniversaries and how you like to give flowers, and reminds you at the right moment, so no thought of someone slips past you.\n\n\"You shouldn't have to be good with words for your heart to arrive intact.\nEvery piece of sincerity deserves a bouquet that belongs to it alone.\"\nWhere your words bloom.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a4908b7a-287f-48cf-89bd-1b30cb91e588/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a4908b7a-287f-48cf-89bd-1b30cb91e588/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a4908b7a-287f-48cf-89bd-1b30cb91e588/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a4908b7a-287f-48cf-89bd-1b30cb91e588/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a4908b7a-287f-48cf-89bd-1b30cb91e588/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/a4908b7a-287f-48cf-89bd-1b30cb91e588/screenshot-5.png"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://huayu-flower-gifting.shadudu1215.chatgpt.site",
+      "localizations": {
+        "en": {
+          "name": "Huayu",
+          "intro": "What colour is the person who matters to you?\nThe warm orange of sunlight, or a blue that puts you at ease?\nWe can always feel what makes someone singular —\nwe just don't always know how to say it out loud.\n\n\"Huayu\" echoes 花語, the language of flowers, and also reads as \"flowers, given to you.\"\nIt is a design tool that uses AI to turn what you feel into a bouquet.\n\nTell it their personality, the story between you, the colours they love, the occasion and your budget,\nand Huayu draws on flower meanings, colour psychology and floral style\nto compose a bouquet proposal and a mood image made only for them.\n\nHuayu connects you with local florists, so the bouquet arrives closer to the one in your head, and so saying what you want takes less back and forth.\nIt also remembers birthdays, anniversaries and how you like to give flowers, and reminds you at the right moment, so no thought of someone slips past you.\n\n\"You shouldn't have to be good with words for your heart to arrive intact.\nEvery piece of sincerity deserves a bouquet that belongs to it alone.\"\nWhere your words bloom."
+        },
+        "zh-TW": {
+          "name": "花予",
+          "intro": "在你眼中，重要的人是什麼顏色？\n是陽光一樣溫暖的橘色，還是讓人感到安心的藍色？\n我們總能感受到一個人的獨特，\n卻不一定知道，該如何把這份感受說出口。\n\n「花予」，取自花語的諧音，也代表「把花贈予你」\n是一款運用 AI 將心意化為花束的設計工具。\n\n只要輸入對方的個性、彼此的故事、喜歡的顏色、場合與預算，\n花予便會結合花語、色彩心理與花藝風格，生成專屬花束提案與氛圍圖。\n\n花予串連在地花店，讓花束的設計，都更貼近心中的模樣，並增加與花店溝通的效率。\n同時，花予也會記住生日、紀念日與送花偏好，在剛好的時間提醒你，每一次想念，都不會錯過。\n\n「心意不必很會說，才能被好好收到。\n因為每一份真心，都值得擁有一束，只屬於它的花。」\nWhere your words bloom."
+        }
+      },
+      "status": "submitted",
+      "result_rank": 2,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "4210585f-50f8-4399-8fe8-d180d920a21c",
+      "team_id": "7edd4ca7-e2fa-4d84-b3f9-c910a00112cd",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Slacker Roll Call",
+      "team_name": "4在必得",
+      "category": "Productivity",
+      "intro": "Slacker Roll Call is a gamified team project management app designed for both student teams and workplace professionals. It addresses common collaboration problems such as unclear responsibilities, invisible progress, uneven contributions, and the interpersonal pressure caused by repeatedly reminding teammates about unfinished work.\n\nWhether users are completing a university group assignment, organizing a student event, preparing a business presentation, or managing a workplace project, Slacker Roll Call helps everyone understand what they are responsible for and how the team is progressing.\n\nThe app turns every team project into a “bomb-defusal mission.” Each group becomes a special task force, every member acts as an agent, and the project deadline becomes a ticking bomb. With a bold black-and-yellow warning theme, retro American-inspired visuals, and playful interactions, the app makes progress management more engaging, understandable, and motivating.\n\nKey features:\n\n1. Group and project management\nUsers can create a group or join one with an invitation code, then configure its name and final deadline. The group dashboard displays the countdown, overall project progress, and each member’s individual progress in one place.\n\n2. Subtasks and deliverable submission\nLarge projects can be divided into tasks and smaller actionable subtasks. Members can check off completed work and attach files or links as evidence. Individual and team progress update automatically, reducing the need for repetitive manual status reports.\n\n3. Personal task dashboard\nThe My Tasks page collects a user’s assignments across different groups. A semicircular progress gauge, deadline indicators, and task cards help users understand their workload and decide what to complete first.\n\n4. Gamified progress nudges\nWhen a teammate falls behind, other members can send a playful “poke” instead of leaving every reminder to a group leader, project owner, or manager. Different poke styles can use distinctive animations and haptic feedback, making reminders noticeable without turning them into formal confrontations.\n\n5. The “I’m Working” shield\nMembers who have started working can activate a temporary shield by reporting their current progress and promising an estimated completion time. The shield pauses incoming reminders, balancing accountability with protection against excessive interruptions.\n\n6. Team chat and AI communication analysis\nMembers can discuss their project in a shared chat room and use shortcuts to ask the assistant questions or request communication analysis. The AI evaluates collaboration and discussion patterns, then summarizes its findings in the team report under Settings.\n\n7. Anonymous peer review and contribution reports\nAfter a project ends, members can anonymously evaluate one another based on punctuality, work quality, communication, collaboration, and crisis support. The app generates a contribution radar chart and an AI-powered team summary that can support classroom peer reviews, project retrospectives, and workplace performance discussions.\n\n8. Widget and at-a-glance progress\nA home-screen widget allows users to view the project countdown and current progress without opening the app, helping the entire team notice when a deadline is getting dangerously close.\n\nSlacker Roll Call is more than a to-do list. It connects task allocation, progress tracking, reminders, communication, evidence submission, and peer evaluation into one complete workflow. Our goal is to reduce information gaps and interpersonal pressure while making every member’s contribution more visible, fair, and actionable for both academic and professional teams.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4210585f-50f8-4399-8fe8-d180d920a21c/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4210585f-50f8-4399-8fe8-d180d920a21c/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4210585f-50f8-4399-8fe8-d180d920a21c/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4210585f-50f8-4399-8fe8-d180d920a21c/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4210585f-50f8-4399-8fe8-d180d920a21c/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4210585f-50f8-4399-8fe8-d180d920a21c/screenshot-5.png"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://groupkill-beta-tw.s716ylvia.chatgpt.site",
+      "localizations": {
+        "en": {
+          "name": "Slacker Roll Call",
+          "intro": "Slacker Roll Call is a gamified team project management app designed for both student teams and workplace professionals. It addresses common collaboration problems such as unclear responsibilities, invisible progress, uneven contributions, and the interpersonal pressure caused by repeatedly reminding teammates about unfinished work.\n\nWhether users are completing a university group assignment, organizing a student event, preparing a business presentation, or managing a workplace project, Slacker Roll Call helps everyone understand what they are responsible for and how the team is progressing.\n\nThe app turns every team project into a “bomb-defusal mission.” Each group becomes a special task force, every member acts as an agent, and the project deadline becomes a ticking bomb. With a bold black-and-yellow warning theme, retro American-inspired visuals, and playful interactions, the app makes progress management more engaging, understandable, and motivating.\n\nKey features:\n\n1. Group and project management\nUsers can create a group or join one with an invitation code, then configure its name and final deadline. The group dashboard displays the countdown, overall project progress, and each member’s individual progress in one place.\n\n2. Subtasks and deliverable submission\nLarge projects can be divided into tasks and smaller actionable subtasks. Members can check off completed work and attach files or links as evidence. Individual and team progress update automatically, reducing the need for repetitive manual status reports.\n\n3. Personal task dashboard\nThe My Tasks page collects a user’s assignments across different groups. A semicircular progress gauge, deadline indicators, and task cards help users understand their workload and decide what to complete first.\n\n4. Gamified progress nudges\nWhen a teammate falls behind, other members can send a playful “poke” instead of leaving every reminder to a group leader, project owner, or manager. Different poke styles can use distinctive animations and haptic feedback, making reminders noticeable without turning them into formal confrontations.\n\n5. The “I’m Working” shield\nMembers who have started working can activate a temporary shield by reporting their current progress and promising an estimated completion time. The shield pauses incoming reminders, balancing accountability with protection against excessive interruptions.\n\n6. Team chat and AI communication analysis\nMembers can discuss their project in a shared chat room and use shortcuts to ask the assistant questions or request communication analysis. The AI evaluates collaboration and discussion patterns, then summarizes its findings in the team report under Settings.\n\n7. Anonymous peer review and contribution reports\nAfter a project ends, members can anonymously evaluate one another based on punctuality, work quality, communication, collaboration, and crisis support. The app generates a contribution radar chart and an AI-powered team summary that can support classroom peer reviews, project retrospectives, and workplace performance discussions.\n\n8. Widget and at-a-glance progress\nA home-screen widget allows users to view the project countdown and current progress without opening the app, helping the entire team notice when a deadline is getting dangerously close.\n\nSlacker Roll Call is more than a to-do list. It connects task allocation, progress tracking, reminders, communication, evidence submission, and peer evaluation into one complete workflow. Our goal is to reduce information gaps and interpersonal pressure while making every member’s contribution more visible, fair, and actionable for both academic and professional teams."
+        },
+        "zh-TW": {
+          "name": "雷包點點名",
+          "intro": "「雷包點點名」是一款適合學生團隊與職場工作者使用的遊戲化團隊任務管理 App，協助解決分工不透明、進度難追蹤、貢獻不平均，以及負責人反覆催交時容易產生人際壓力等問題。\n\n無論是大學生的分組報告、社團企劃，或職場中的專案協作、簡報提案與活動籌備，都能透過「雷包點點名」清楚掌握每位成員的任務與進度。\n\n我們將團隊專案包裝成一場「拆彈任務」：每個群組都是一支拆彈小隊、每位成員都是特工，而專案截止時間就是炸彈倒數。透過黑黃警示配色、美式復古風格與遊戲化互動，讓枯燥的進度管理變得直覺、有趣，也更有參與感。\n\n核心功能：\n\n1. 群組與專案管理\n使用者可以建立群組或輸入邀請碼加入團隊，設定群組名稱與專案截止時間。群組頁會集中顯示倒數時間、專案總進度及每位成員的個人進度。\n\n2. 子任務與成果交付\n大型專案可以拆分成多個任務與子任務。負責人完成子任務後可直接勾選，並上傳成果檔案或連結；個人進度與團隊總進度會同步更新，減少反覆手動回報的負擔。\n\n3. 我的任務儀表板\nApp 會整理目前使用者在不同群組中的所有待完成與已完成任務，透過半圓形進度儀表板、截止時間與任務卡片，快速掌握自己的工作量與優先順序。\n\n4. 戳一下進度提醒\n當成員進度落後時，隊友可以透過「戳一下」發送遊戲化提醒，降低由組長、專案負責人或主管單獨催交的壓力。不同戳法可以搭配動畫與觸覺回饋，讓提醒更明確但不失趣味。\n\n5. 「我在做了」限時護盾\n正在處理任務的成員可以啟動護盾、填寫目前進度並承諾預計完成時間。護盾期間會暫時阻擋催促，讓提醒機制兼顧效率與使用者感受，避免演變成過度干擾。\n\n6. 團隊聊天室與 AI 溝通分析\n成員可以在聊天室討論專案，並使用快捷指令請機器人協助回答問題或分析溝通狀況。AI 會根據回應、協作與討論情形產生溝通分析，整理到設定頁的戰情報告中。\n\n7. 匿名互評與貢獻報告\n專案結束後，成員可以針對準時、品質、溝通、合作與危機處理能力進行匿名互評。系統會產生團隊貢獻雷達圖與 AI 戰情摘要，協助團隊回顧合作成果，也能作為課堂互評、專案復盤或績效討論的參考依據。\n\n8. Widget 與即時進度\n使用者不必開啟 App，也能透過桌面 Widget 快速查看團隊倒數時間與目前進度，隨時掌握專案是否接近「爆炸」。\n\n「雷包點點名」不只是待辦事項工具，而是把分工、進度追蹤、提醒、溝通、成果交付與互評整合成一套完整流程。我們希望降低團隊合作中的資訊落差與人際壓力，讓每位成員的貢獻更透明，也讓學生與職場團隊都能更公平、更有效率地完成任務。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": 3,
+      "rankings_revealed": true,
+      "judge_rank": 1,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "15ddd76a-0e65-45a2-af22-8914e5bf92bf",
+      "team_id": "41bddb5c-607b-43ec-9bd6-9fbbef6cdf9b",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "DanceMate",
+      "team_name": "emm讓我想一下",
+      "category": "Productivity",
+      "intro": "DanceMate brings rehearsal videos, music, formations, progress, and journals together in one dance project. Whether practicing solo, preparing for a performance, or rehearsing with a team, dancers can find what matters faster and spend more time improving.\n\n【Break Down Every Move】\nImport rehearsal videos from Photos, adjust playback speed, and jump forward or back 10 seconds. Add timestamped notes to difficult moments and return to them with one tap.\n\n【Practice with Music You Love】\nChoose songs from Apple Music and adjust playback speed, moving from slow practice to full-speed run-throughs at your own pace.\n\n【See Every Formation Clearly】\nDrag dancers on stage to create formations, set their timing, plan straight or curved movement paths, and compare them with the rehearsal video. Proximity alerts help reveal possible collisions and overlaps early.\n\n【Turn Big Goals into Small Steps】\nSet dates and completion states for rehearsal tasks, monitor overall progress, and move through choreography, formations, and blocking without missing important details.\n\n【Record Every Improvement】\nLog practice time, condition, and reflections, then connect entries to specific formations or video moments. Review accumulated practice and see how far you have come.\n\nFrom the first move to the full performance, DanceMate turns every rehearsal into visible progress.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/15ddd76a-0e65-45a2-af22-8914e5bf92bf/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/15ddd76a-0e65-45a2-af22-8914e5bf92bf/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/15ddd76a-0e65-45a2-af22-8914e5bf92bf/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/15ddd76a-0e65-45a2-af22-8914e5bf92bf/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/15ddd76a-0e65-45a2-af22-8914e5bf92bf/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/15ddd76a-0e65-45a2-af22-8914e5bf92bf/screenshot-5.png"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://lianwuren-dance.billy3064.chatgpt.site",
+      "localizations": {
+        "en": {
+          "name": "DanceMate",
+          "intro": "DanceMate brings rehearsal videos, music, formations, progress, and journals together in one dance project. Whether practicing solo, preparing for a performance, or rehearsing with a team, dancers can find what matters faster and spend more time improving.\n\n【Break Down Every Move】\nImport rehearsal videos from Photos, adjust playback speed, and jump forward or back 10 seconds. Add timestamped notes to difficult moments and return to them with one tap.\n\n【Practice with Music You Love】\nChoose songs from Apple Music and adjust playback speed, moving from slow practice to full-speed run-throughs at your own pace.\n\n【See Every Formation Clearly】\nDrag dancers on stage to create formations, set their timing, plan straight or curved movement paths, and compare them with the rehearsal video. Proximity alerts help reveal possible collisions and overlaps early.\n\n【Turn Big Goals into Small Steps】\nSet dates and completion states for rehearsal tasks, monitor overall progress, and move through choreography, formations, and blocking without missing important details.\n\n【Record Every Improvement】\nLog practice time, condition, and reflections, then connect entries to specific formations or video moments. Review accumulated practice and see how far you have come.\n\nFrom the first move to the full performance, DanceMate turns every rehearsal into visible progress."
+        },
+        "zh-TW": {
+          "name": "練舞人",
+          "intro": "「練舞人」將練習影片、音樂、隊形、排練進度與日誌集中在同一個舞蹈專案中，幫助你更有效率地拆解動作、整理編排，掌握每一次練習的成果。無論是獨自練舞、準備舞台演出，還是和舞團一起排練，都能更快找到重點，把時間真正花在進步上。\n\n【精準拆解每個動作】\n從照片圖庫匯入練習影片，自由調整播放速度，並快速前進或倒退 10 秒。遇到需要加強的片段，可直接加入時間筆記，下次點一下就能回到重點。\n\n【搭配喜愛的練習音樂】\n選擇 Apple Music 歌曲並調整播放速度，從慢速熟悉動作到原速完整演練，建立適合自己的練習節奏。\n\n【讓隊形一目瞭然】\n在舞台上拖曳舞者，快速建立不同隊形；設定出現時間，規劃直線或曲線移動路徑，並搭配影片即時對照。站位太靠近時，練舞人也會顯示提醒，協助提早發現碰撞與重疊。\n\n【把大目標拆成小進度】\n為排練項目設定日期與完成狀態，掌握整體完成度。從記動作、調整隊形到完成走位，都能逐項推進，不遺漏重要細節。\n\n【記錄每一次進步】\n留下練習時間、當天狀態與心得，並關聯特定隊形或影片片段。回顧累積練習時間，也看見自己一路走來的改變。\n\n從第一個動作，到完整站上舞台——讓練舞人陪你把每一次排練，都變成看得見的進步。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": 4,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "9758cb52-1a10-463e-a878-ff786492cd5d",
+      "team_id": "4b0edcdd-3b1f-4ac0-b10c-b60732543afc",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "TrailUp",
+      "team_name": "JJSH",
+      "category": "Health & Fitness",
+      "intro": "TrailUp turns every daily walk into a small adventure to explore the world.\n\nTrailUp is a lifestyle journal that combines daily walking with photo exploration. Through step challenges and photo missions, it encourages people to put down their phones, go outdoors, rediscover scenery that is easy to overlook, and gradually build a personal exploration journal.\n\nModern life keeps many people indoors and fills their days with fixed commuting routes and busy routines. We hope simple and enjoyable daily challenges can give people a reason to step outside, turning an ordinary day into a memory worth keeping.\n\nWhether you are running in the morning, taking a walk, commuting, traveling, or visiting a nearby park, TrailUp helps you record each day's discoveries and naturally bring healthy habits and the joy of exploration into everyday life.\n\nCORE FEATURES\n\n• Daily walking challenges\nTrailUp reads daily step counts through Apple HealthKit. Reaching the walking goal unlocks the day's exploration mission, connecting exercise with discovery and helping users build a consistent walking habit.\n\n• Daily photo exploration\nA new exploration theme encourages users to observe their surroundings and photograph something they discover that day. Every press of the shutter is an opportunity to see everyday life from a fresh perspective.\n\n• Trail Journal\nCompleted missions and photos are automatically saved to Trail Journal, creating a personal record of exploration and making it easy to revisit meaningful moments along the way.\n\n• Today's mission and exploration progress\nTrailUp clearly presents today's step count, mission status, exploration photo, and daily progress, keeping each goal easy to understand while providing a continuing sense of achievement.\n\n• Privacy-first design\nTrailUp is built with Apple's native technologies, including Swift, SwiftUI, HealthKit, and PhotosUI. Exploration data is stored locally on the device, with an emphasis on privacy and without collecting unnecessary personal information.\n\nTrailUp is more than a step counter, and more than a photo app.\n\nIt is a small journey that can begin every day—a reason to slow down and notice the scenery around you. We believe every walk is worth recording and every exploration can bring a new surprise to life.\n\nToday, start by taking the first step.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9758cb52-1a10-463e-a878-ff786492cd5d/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9758cb52-1a10-463e-a878-ff786492cd5d/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9758cb52-1a10-463e-a878-ff786492cd5d/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9758cb52-1a10-463e-a878-ff786492cd5d/screenshot-3.jpeg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9758cb52-1a10-463e-a878-ff786492cd5d/screenshot-4.jpeg"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://trailup.sevenishere.com",
+      "localizations": {
+        "en": {
+          "name": "TrailUp",
+          "intro": "TrailUp turns every daily walk into a small adventure to explore the world.\n\nTrailUp is a lifestyle journal that combines daily walking with photo exploration. Through step challenges and photo missions, it encourages people to put down their phones, go outdoors, rediscover scenery that is easy to overlook, and gradually build a personal exploration journal.\n\nModern life keeps many people indoors and fills their days with fixed commuting routes and busy routines. We hope simple and enjoyable daily challenges can give people a reason to step outside, turning an ordinary day into a memory worth keeping.\n\nWhether you are running in the morning, taking a walk, commuting, traveling, or visiting a nearby park, TrailUp helps you record each day's discoveries and naturally bring healthy habits and the joy of exploration into everyday life.\n\nCORE FEATURES\n\n• Daily walking challenges\nTrailUp reads daily step counts through Apple HealthKit. Reaching the walking goal unlocks the day's exploration mission, connecting exercise with discovery and helping users build a consistent walking habit.\n\n• Daily photo exploration\nA new exploration theme encourages users to observe their surroundings and photograph something they discover that day. Every press of the shutter is an opportunity to see everyday life from a fresh perspective.\n\n• Trail Journal\nCompleted missions and photos are automatically saved to Trail Journal, creating a personal record of exploration and making it easy to revisit meaningful moments along the way.\n\n• Today's mission and exploration progress\nTrailUp clearly presents today's step count, mission status, exploration photo, and daily progress, keeping each goal easy to understand while providing a continuing sense of achievement.\n\n• Privacy-first design\nTrailUp is built with Apple's native technologies, including Swift, SwiftUI, HealthKit, and PhotosUI. Exploration data is stored locally on the device, with an emphasis on privacy and without collecting unnecessary personal information.\n\nTrailUp is more than a step counter, and more than a photo app.\n\nIt is a small journey that can begin every day—a reason to slow down and notice the scenery around you. We believe every walk is worth recording and every exploration can bring a new surprise to life.\n\nToday, start by taking the first step."
+        },
+        "zh-TW": {
+          "name": "TrailUp",
+          "intro": "TrailUp 將每天的步行，變成一場探索世界的小冒險。\n\nTrailUp 是一款結合每日步行與探索拍照的生活紀錄 App，透過每日步數挑戰與拍照任務，鼓勵使用者放下手機、走出戶外，重新發現那些平常容易錯過的風景，並一步步累積屬於自己的探索日誌。\n\n現代人長時間待在室內，生活容易被固定的通勤路線與忙碌節奏填滿。我們希望透過簡單而有趣的每日挑戰，讓使用者因為探索而願意走出去，將平凡的一天，變成值得收藏的回憶。\n\n無論是晨跑、散步、上下班通勤、旅行途中，或只是到附近公園走走，TrailUp 都能陪伴你記錄每一天的發現，讓健康習慣與探索樂趣自然融入生活。\n\n【核心功能】\n\n• 每日步行挑戰\n透過 Apple HealthKit 讀取每日步數，完成步行目標後即可解鎖當日探索任務，讓運動與探索相互結合，培養持續步行的習慣。\n\n• 每日探索拍照\n每天提供一個探索主題，鼓勵使用者觀察周遭環境並拍下屬於今天的發現。每一次按下快門，都是一次重新認識生活的機會。\n\n• Trail Journal 探索日誌\n所有完成的任務與照片都會自動保存至 Trail Journal，形成專屬於自己的探索足跡，隨時回顧一路走來的美好瞬間。\n\n• 今日任務與探索進度\n清楚顯示今日步數、任務完成狀態、探索照片與每日進度，讓每天的目標一目了然，也帶來持續完成挑戰的成就感。\n\n• 隱私優先設計\nTrailUp 使用 Apple 原生技術打造，包含 Swift、SwiftUI、HealthKit 與 PhotosUI，所有探索資料皆儲存在裝置本機，重視使用者隱私，不蒐集不必要的個人資料。\n\nTrailUp 不只是計步器，也不只是拍照 App。\n\n它是一段每天都能開始的小旅程，一個提醒自己放慢腳步、留意身邊風景的理由。我們相信，每一次步行都值得被記錄，每一次探索都能為生活帶來新的驚喜。\n\n今天，就從踏出第一步開始。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": 5,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "4f9f2047-6b67-4c7d-bf5a-2d0282d93e35",
+      "team_id": "01d0b7e9-c8d6-47f2-a792-8351cfd0de52",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Snoots!",
+      "team_name": "Snoots!",
+      "category": "Food & Drink",
+      "intro": "Snoots! is a local discovery and social app built for dog parents. It brings nearby pet-friendly cafes, restaurants, parks, meetups, and emergency care into one place. Instead of relying on a generic \"pet-friendly\" label, every place can surface practical rules such as indoor access, size limits, leash or carrier requirements, seating policies, verification source, and the last-confirmed date, helping owners make a more confident decision before leaving home. Owners can also maintain dog and health profiles, explore community posts, discover compatible playmates, and continue into a guided chat for a safer first meeting. The AI direction for Snoots! focuses on combining dog traits, activity conditions, and venue rules into clear suitability guidance, while never replacing owner judgment or providing medical or behavioral diagnosis.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4f9f2047-6b67-4c7d-bf5a-2d0282d93e35/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4f9f2047-6b67-4c7d-bf5a-2d0282d93e35/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4f9f2047-6b67-4c7d-bf5a-2d0282d93e35/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4f9f2047-6b67-4c7d-bf5a-2d0282d93e35/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4f9f2047-6b67-4c7d-bf5a-2d0282d93e35/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4f9f2047-6b67-4c7d-bf5a-2d0282d93e35/screenshot-5.png"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://clllynnn.github.io/Snoots-/docs/snoots-scc-poster.png",
+      "localizations": {
+        "en": {
+          "name": "Snoots!",
+          "intro": "Snoots! is a local discovery and social app built for dog parents. It brings nearby pet-friendly cafes, restaurants, parks, meetups, and emergency care into one place. Instead of relying on a generic \"pet-friendly\" label, every place can surface practical rules such as indoor access, size limits, leash or carrier requirements, seating policies, verification source, and the last-confirmed date, helping owners make a more confident decision before leaving home. Owners can also maintain dog and health profiles, explore community posts, discover compatible playmates, and continue into a guided chat for a safer first meeting. The AI direction for Snoots! focuses on combining dog traits, activity conditions, and venue rules into clear suitability guidance, while never replacing owner judgment or providing medical or behavioral diagnosis."
+        },
+        "zh-TW": {
+          "name": "Snoots!",
+          "intro": "Snoots! 是為狗主人設計的在地探索與社交 App，讓飼主用一個介面查看附近的寵物友善咖啡廳、餐廳、公園、狗狗聚會與緊急照護資訊。地點頁不只標示「寵物友善」，還整理室內外、體型、牽繩、提籠與座位等規則，以及資料來源與最後確認日期，幫助使用者在出門前做出更有把握的決定。飼主也能建立狗狗與健康資料、瀏覽社群動態、尋找個性與互動方式合適的狗朋友，並透過配對後的對話安排安全的第一次見面。Snoots! 的 AI 方向聚焦於結合狗狗特質、活動條件與場地規則，提供容易理解的活動適合度建議，而不是取代飼主判斷或進行醫療、行為診斷。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": 3,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "9f24858b-00e0-4257-bc5e-a2a13de56e49",
+      "team_id": "5848d4b4-fc21-4e33-832d-271ddc6bdf10",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "HavenCircle",
+      "team_name": "山形",
+      "category": "Social Impact",
+      "intro": "HavenCircle helps families stay aware of official safety risks while respecting each person’s privacy boundaries. Users can create fixed safety circles for homes, relatives’ homes, and important assets. Family members can also opt in to a live circle on their own device and pause it at any time. HavenCircle keeps only the latest location rather than building a movement history; family locations are shared only through the family’s iCloud CKShare and are never sent to HavenCircle’s event or push-notification servers. When an official alert, such as an NCDR alert, matches an active safety circle, the app explains the source, confidence, and why the alert was received, then offers nearby emergency resources and a one-tap safety check-in. HavenCircle is a day-to-day safety-awareness tool, not an emergency service; call 110 or 119 when there is immediate danger.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9f24858b-00e0-4257-bc5e-a2a13de56e49/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9f24858b-00e0-4257-bc5e-a2a13de56e49/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9f24858b-00e0-4257-bc5e-a2a13de56e49/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9f24858b-00e0-4257-bc5e-a2a13de56e49/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9f24858b-00e0-4257-bc5e-a2a13de56e49/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9f24858b-00e0-4257-bc5e-a2a13de56e49/screenshot-5.png"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://havencircle.looptw.com/pitch/",
+      "localizations": {
+        "en": {
+          "name": "HavenCircle",
+          "intro": "HavenCircle helps families stay aware of official safety risks while respecting each person’s privacy boundaries. Users can create fixed safety circles for homes, relatives’ homes, and important assets. Family members can also opt in to a live circle on their own device and pause it at any time. HavenCircle keeps only the latest location rather than building a movement history; family locations are shared only through the family’s iCloud CKShare and are never sent to HavenCircle’s event or push-notification servers. When an official alert, such as an NCDR alert, matches an active safety circle, the app explains the source, confidence, and why the alert was received, then offers nearby emergency resources and a one-tap safety check-in. HavenCircle is a day-to-day safety-awareness tool, not an emergency service; call 110 or 119 when there is immediate danger."
+        },
+        "zh-TW": {
+          "name": "安心圈 HavenCircle",
+          "intro": "安心圈協助家庭關注官方安全風險，同時尊重每個人的位置與隱私界線。使用者可為住家、長輩家或重要資產建立固定警戒圈；家人也能在自己的裝置主動開啟、隨時暫停的即時圈。系統只保留最新位置、不建立移動軌跡，且位置僅透過家庭 iCloud CKShare 分享，不會傳送至安心圈的事件或推播伺服器。當 NCDR 等官方示警命中有效警戒圈時，安心圈會清楚說明來源、可信度與收到提醒的原因，並提供附近避難資源與一鍵安否回報。安心圈是日常安全意識工具，並非緊急服務；如有立即危險，請直接撥打 110 或 119。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "647e9c9d-1b4e-4bf2-9878-130eed384f98",
+      "team_id": "8f2a91a0-8244-4f06-8cd6-e19adef4d981",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Firstgram",
+      "team_name": "📷📸",
+      "category": "lifestyle",
+      "intro": "📸 Firstgram — AI-guided shooting. Get the shot right, on the first try.\n\nTired of retaking the same photo twenty times? Cropped feet, blocked\nlandmarks, \"a little to the left\"? Pick a reference photo and let AI\nguide the rest.\n\n【Pick Your Shot】\nChoose a reference from your favorites, trending photos, or the map —\nor upload your own dream shot.\n\n【Visual Guidance】\nThe reference photo overlays your viewfinder. Line up the background,\nget the pose right, and Firstgram tells you the moment it matches.\n\n【Real-Time Tips】\nNo more shouting directions. AI shows pose outlines and simple cues\nlike \"step left\" or \"raise your hand.\"\n\n【Share the Spot】\nGreat camera angles deserve to travel. Share your spots by landmark\nand hashtag, so everyone can nail the shot.\n\nPhotos should capture memories, not start arguments. This time,\nthe first shot is the one.\n",
+      "video_url": "https://youtube.com/shorts/It5dDMmcNlU?si=dLlNUYOT-o2-PYDH",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/647e9c9d-1b4e-4bf2-9878-130eed384f98/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/647e9c9d-1b4e-4bf2-9878-130eed384f98/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/647e9c9d-1b4e-4bf2-9878-130eed384f98/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/647e9c9d-1b4e-4bf2-9878-130eed384f98/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/647e9c9d-1b4e-4bf2-9878-130eed384f98/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/647e9c9d-1b4e-4bf2-9878-130eed384f98/screenshot-5.png"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://bucolic-rugelach-2663ce.netlify.app",
+      "localizations": {
+        "en": {
+          "name": "Firstgram",
+          "intro": "📸 Firstgram — AI-guided shooting. Get the shot right, on the first try.\n\nTired of retaking the same photo twenty times? Cropped feet, blocked\nlandmarks, \"a little to the left\"? Pick a reference photo and let AI\nguide the rest.\n\n【Pick Your Shot】\nChoose a reference from your favorites, trending photos, or the map —\nor upload your own dream shot.\n\n【Visual Guidance】\nThe reference photo overlays your viewfinder. Line up the background,\nget the pose right, and Firstgram tells you the moment it matches.\n\n【Real-Time Tips】\nNo more shouting directions. AI shows pose outlines and simple cues\nlike \"step left\" or \"raise your hand.\"\n\n【Share the Spot】\nGreat camera angles deserve to travel. Share your spots by landmark\nand hashtag, so everyone can nail the shot.\n\nPhotos should capture memories, not start arguments. This time,\nthe first shot is the one.\n"
+        },
+        "zh-TW": {
+          "name": "第一幀",
+          "intro": "📸 Firstgram — AI 引導拍攝，第一幀就拍到滿意的照片。\n\n還在為「腳被截」「地標被擋」重拍二十次嗎？打開 Firstgram，\n選一張你想要的參考照，剩下的交給 AI。\n\n【選好照片，直接開拍】\n從收藏、熱門、地圖照片中挑選參考照，或上傳你自己的理想畫面。\n\n【視覺引導，疊圖對齊】\n參考照半透明疊在取景器上，先對準背景、再站好位置，\n相似度達標立刻提醒你按下快門。\n\n【文字提示，不用喊來喊去】\nAI 即時顯示姿勢框與提示：「往左半步」「手抬高一點」，\n幫拍的人不再手忙腳亂。\n\n【好機位，值得分享】\n透過地標與 hashtag 分享你的機位，在同一個地點，\n大家都能拍出好照片。\n\n拍照應該記錄美好，而不是製造爭吵。這次，第一張就對了。\n"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": 2,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "7ea31b13-2c7e-4776-9698-46b0202afa58",
+      "team_id": "dbe8b62b-396f-484b-bca2-f444e06aa8f6",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "EatVege",
+      "team_name": "吃菜吧",
+      "category": "Food & Drink",
+      "intro": "EatVege is a free, lightly social health app that turns eating your vegetables into a fun daily habit through small daily tasks and friend challenges. Most people don't eat enough vegetables, and the WHO ranks low vegetable intake among the top ten health risk factors. Each day EatVege gives you three vegetables to eat: pick some yourself and let fate randomly draw one. Don't like it? Reroll once for free each day, or spend V-Points to reroll or pick directly. You can also challenge a friend to eat a specific veggie today (auto-filtered to what they'll actually eat), or share a two-person menu and earn rewards when you both finish. Built-in streaks, weekly and monthly stats, and a friend V-Point leaderboard keep it fun, with Sign in with Apple and daily local reminders.",
+      "video_url": "https://www.youtube.com/watch?v=nMwGEIU4Zo4",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/7ea31b13-2c7e-4776-9698-46b0202afa58/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/7ea31b13-2c7e-4776-9698-46b0202afa58/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/7ea31b13-2c7e-4776-9698-46b0202afa58/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/7ea31b13-2c7e-4776-9698-46b0202afa58/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/7ea31b13-2c7e-4776-9698-46b0202afa58/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/7ea31b13-2c7e-4776-9698-46b0202afa58/screenshot-5.png"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://eatvege.github.io",
+      "localizations": {
+        "en": {
+          "name": "EatVege",
+          "intro": "EatVege is a free, lightly social health app that turns eating your vegetables into a fun daily habit through small daily tasks and friend challenges. Most people don't eat enough vegetables, and the WHO ranks low vegetable intake among the top ten health risk factors. Each day EatVege gives you three vegetables to eat: pick some yourself and let fate randomly draw one. Don't like it? Reroll once for free each day, or spend V-Points to reroll or pick directly. You can also challenge a friend to eat a specific veggie today (auto-filtered to what they'll actually eat), or share a two-person menu and earn rewards when you both finish. Built-in streaks, weekly and monthly stats, and a friend V-Point leaderboard keep it fun, with Sign in with Apple and daily local reminders."
+        },
+        "zh-TW": {
+          "name": "吃菜啦（EatVege）",
+          "intro": "吃菜啦（EatVege）是一款免費、輕社交的健康 App，用「每日小任務＋好友挑戰」讓吃菜變得輕鬆好玩。國人 8 成蔬菜攝取不足， WHO 也將蔬菜攝取不足列為前十大健康危險因子。每天吃3菜：一部分自己選、一樣交給命運隨機抽。 不想吃可以每日免費重抽 1 次，或用 V 點重抽、直接指定。你還能指定好友今天吃某樣菜（會自動過濾對方不吃的菜）， 或和好友共用同一組雙人菜單、一起完成拿獎勵。內建連續天數、週／月完成統計與好友 V 點排行榜， 支援 Sign in with Apple 登入與每日本地提醒。後端採用 Firebase 免費方案，把吃菜這件小事變成每天想打開的健康習慣。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "d6591447-2e93-4ed5-8d06-fbecb7d2a5d2",
+      "team_id": "64889556-43c3-443c-b26d-e56bdacee911",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "PillScan 藥記師",
+      "team_name": "PillScan",
+      "category": "healthcare",
+      "intro": "Don’t memorize your medicine—just snap a photo and let PillScan remember it for you. PillScan combines camera-based pill recognition, a smart medicine cabinet, medication reminders, and family support to make everyday medication management easier and safer.",
+      "video_url": "https://youtube.com/shorts/Xb6A7Gl_hns",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/d6591447-2e93-4ed5-8d06-fbecb7d2a5d2/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/d6591447-2e93-4ed5-8d06-fbecb7d2a5d2/screenshot-1.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/d6591447-2e93-4ed5-8d06-fbecb7d2a5d2/screenshot-2.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/d6591447-2e93-4ed5-8d06-fbecb7d2a5d2/screenshot-3.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/d6591447-2e93-4ed5-8d06-fbecb7d2a5d2/screenshot-4.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/d6591447-2e93-4ed5-8d06-fbecb7d2a5d2/screenshot-5.jpg"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://pill-scan-web.vercel.app",
+      "localizations": {
+        "en": {
+          "name": "PillScan 藥記師",
+          "intro": "Don’t memorize your medicine—just snap a photo and let PillScan remember it for you. PillScan combines camera-based pill recognition, a smart medicine cabinet, medication reminders, and family support to make everyday medication management easier and safer."
+        },
+        "zh-TW": {
+          "name": "PillScan 藥記師",
+          "intro": "「藥劑不要記，拍一下，藥記師幫你記。」PillScan 是一款 AI 智慧用藥管理 App，只要拍下藥物，即可快速辨識、建立智慧藥物櫃、自動提醒服藥，並讓家人遠端共同守護用藥安全。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "0b3c768d-7857-4fc2-bc82-6a2cab256f5d",
+      "team_id": "c019ef88-55dd-4e22-a4dd-e324b732ecb3",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "QuoteSource",
+      "team_name": "企晨不晚",
+      "category": "education",
+      "intro": "Trace Every Quote Back to Its Source\n\nQuoteSource is a text-focused tool that combines quote verification, personal collections, and anonymous sharing.\n\nWhen you come across a quote, book excerpt, or saying online, QuoteSource helps you organize possible authors, books, interviews, and public sources—so you can better understand how credible the quote is and whether it is suitable for citation.\n\nWith QuoteSource, you can:\n\nSearch for the possible source of a quote\nCheck whether a quote may have been misattributed\nReview possible books, webpages, interviews, and other source leads\nSave your favorite quotes and verification results\nOrganize your own quote library by topic\nAnonymously share words that have supported or inspired you\n\nQuoteSource is designed for graduate students, educators, writers, content creators, and anyone who enjoys reading, collecting excerpts, and saving meaningful words.\n\nQuoteSource cannot guarantee that every quote has one definitive source. Instead, it helps you see what evidence is currently available, what remains uncertain, and whether a quote is reliable enough for formal use.\n\nBefore sharing a meaningful quote, take a moment to discover where it came from.\n",
+      "video_url": "https://www.youtube.com/embed/zRp4BKsHHcA",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/0b3c768d-7857-4fc2-bc82-6a2cab256f5d/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/0b3c768d-7857-4fc2-bc82-6a2cab256f5d/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/0b3c768d-7857-4fc2-bc82-6a2cab256f5d/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/0b3c768d-7857-4fc2-bc82-6a2cab256f5d/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/0b3c768d-7857-4fc2-bc82-6a2cab256f5d/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/0b3c768d-7857-4fc2-bc82-6a2cab256f5d/screenshot-5.png"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://quotesource-app.chuntsai.chatgpt.site/",
+      "localizations": {
+        "en": {
+          "name": "QuoteSource",
+          "intro": "Trace Every Quote Back to Its Source\n\nQuoteSource is a text-focused tool that combines quote verification, personal collections, and anonymous sharing.\n\nWhen you come across a quote, book excerpt, or saying online, QuoteSource helps you organize possible authors, books, interviews, and public sources—so you can better understand how credible the quote is and whether it is suitable for citation.\n\nWith QuoteSource, you can:\n\nSearch for the possible source of a quote\nCheck whether a quote may have been misattributed\nReview possible books, webpages, interviews, and other source leads\nSave your favorite quotes and verification results\nOrganize your own quote library by topic\nAnonymously share words that have supported or inspired you\n\nQuoteSource is designed for graduate students, educators, writers, content creators, and anyone who enjoys reading, collecting excerpts, and saving meaningful words.\n\nQuoteSource cannot guarantee that every quote has one definitive source. Instead, it helps you see what evidence is currently available, what remains uncertain, and whether a quote is reliable enough for formal use.\n\nBefore sharing a meaningful quote, take a moment to discover where it came from.\n"
+        },
+        "zh-TW": {
+          "name": "句源",
+          "intro": "找到每一句話的源頭！\n\n句源是一款結合句源查證、佳句收藏與匿名分享的文字工具。\n當你在網路上看到一句名言、書摘或語錄時，可以用它整理可能的作者、書籍、訪談與公開來源，理解這句話目前的可信度與引用風險。\n\n你可以用句源：\n\n・查找一句話的可能來源\n・確認名言是否可能被錯誤署名\n・整理候選書籍、網頁與訪談線索\n・收藏喜歡的句子與查證結果\n・依主題建立自己的佳句資料庫\n・匿名分享陪伴自己的文字\n\nQuoteSource 適合研究生、教師、寫作者、內容創作者，以及喜歡閱讀、摘錄與收藏句子的人。\n\n它不保證每一句話都能找到唯一正確答案，但會幫你看見目前有哪些來源線索、哪些資訊仍待確認，以及這句話是否適合正式引用。\n\n在分享一句好話之前，先看看它從哪裡來。\n"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "1fcff0ba-3c96-40aa-be6c-f1c040265c19",
+      "team_id": "604af849-7886-4455-8a49-07f3bf8e78ad",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "TalkFit",
+      "team_name": "小狐狸",
+      "category": "education",
+      "intro": "TalkFit is a warm, low-pressure iOS speaking coach for students, presenters, interview candidates, and anyone who wants to communicate more clearly. After a short recording, TalkFit uses Apple Speech to create a readable transcript and analyzes filler words, speaking pace, pauses, and the segment that needs the most attention. Instead of repeating the entire speech, the user immediately retries one focused segment and sees a clear before-and-after comparison. TalkFit supports Traditional Chinese and English, uses explainable on-device rules, does not save recordings or transcripts, and includes a reliable demo fallback when speech recognition is unavailable.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/1fcff0ba-3c96-40aa-be6c-f1c040265c19/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/1fcff0ba-3c96-40aa-be6c-f1c040265c19/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/1fcff0ba-3c96-40aa-be6c-f1c040265c19/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/1fcff0ba-3c96-40aa-be6c-f1c040265c19/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/1fcff0ba-3c96-40aa-be6c-f1c040265c19/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/1fcff0ba-3c96-40aa-be6c-f1c040265c19/screenshot-5.png"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://github.com/swiftruru/TalkFit",
+      "localizations": {
+        "en": {
+          "name": "TalkFit",
+          "intro": "TalkFit is a warm, low-pressure iOS speaking coach for students, presenters, interview candidates, and anyone who wants to communicate more clearly. After a short recording, TalkFit uses Apple Speech to create a readable transcript and analyzes filler words, speaking pace, pauses, and the segment that needs the most attention. Instead of repeating the entire speech, the user immediately retries one focused segment and sees a clear before-and-after comparison. TalkFit supports Traditional Chinese and English, uses explainable on-device rules, does not save recordings or transcripts, and includes a reliable demo fallback when speech recognition is unavailable."
+        },
+        "zh-TW": {
+          "name": "TalkFit｜綠園練習簿",
+          "intro": "TalkFit 是一款溫暖、低壓力的 iOS 私人口說教練，適合準備課堂報告、自我介紹、 面試回答、簡報與公開發言的學生和工作者。使用者錄下一段短講後，TalkFit 會透過 Apple Speech 產生逐字稿，分析贅字、語速、停頓與最需要改善的片段，讓使用者不必 重說整篇，而是直接針對最關鍵的一小段立即重練，最後用前後比較看見贅字減少、 節奏與穩定度的進步。App 支援繁體中文與英文，採用可解釋的本機規則，不保存錄音 與逐字稿，並在語音辨識不可用時提供清楚、不冒充真實內容的示範備援。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "b6e75a86-40da-4564-bc93-6df3d04b630f",
+      "team_id": "a975dba1-f3f4-4c05-9e28-9d29c3e6d932",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Join Me",
+      "team_name": "揪ㄇ",
+      "category": "Food, Drink, Social",
+      "intro": "Turn “I want to” into “Let’s go together.”\n\nJoin Me is an activity-centered social app.\nUsers can create or join requests and quickly find companions.\nJoin Me makes meeting up as easy as finding teammates in an online game.",
+      "video_url": "https://youtube.com/shorts/EYnQTHSOJz8",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b6e75a86-40da-4564-bc93-6df3d04b630f/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b6e75a86-40da-4564-bc93-6df3d04b630f/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b6e75a86-40da-4564-bc93-6df3d04b630f/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b6e75a86-40da-4564-bc93-6df3d04b630f/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b6e75a86-40da-4564-bc93-6df3d04b630f/screenshot-4.png"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://littlefish-coder.github.io/join-me/",
+      "localizations": {
+        "en": {
+          "name": "Join Me",
+          "intro": "Turn “I want to” into “Let’s go together.”\n\nJoin Me is an activity-centered social app.\nUsers can create or join requests and quickly find companions.\nJoin Me makes meeting up as easy as finding teammates in an online game."
+        },
+        "zh-TW": {
+          "name": "Join Me 揪ㄇ",
+          "intro": "把「想做」變成「一起出發」\n\nJoin Me 是一款以活動為核心的輕社交 App。\n使用者可以發布或加入「委託」，快速找到一起完成當下活動的夥伴。\nJoin Me 希望讓面對面的揪團，就像在線上遊戲找隊友一樣簡單。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "b7463699-e731-44db-9cb6-2c6b7b4f798f",
+      "team_id": "ae76625b-f52a-4e6f-91d5-5f4228f217b1",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Nomori",
+      "team_name": "AimoPet",
+      "category": "Entertainment",
+      "intro": "Many people want to preserve everyday moments, but long-form typing feels slow and exhausting. Traditional journals also provide little response, making the habit difficult to sustain. Housing restrictions, limited time, and long-term responsibilities also prevent many people from owning a real pet. Nomori combines life journaling and AI companionship in one experience. Users can record thoughts, save photos, and revisit their lives through a personal timeline while caring for an AI pet that responds, remembers past conversations, and grows through interaction. Nomori lives in an evolving 3D world with its own needs, moods, personality, and autonomous behavior. By turning daily reflection into a warm and responsive relationship, Nomori makes journaling feel less like homework and more like being understood.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b7463699-e731-44db-9cb6-2c6b7b4f798f/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b7463699-e731-44db-9cb6-2c6b7b4f798f/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b7463699-e731-44db-9cb6-2c6b7b4f798f/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b7463699-e731-44db-9cb6-2c6b7b4f798f/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b7463699-e731-44db-9cb6-2c6b7b4f798f/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/b7463699-e731-44db-9cb6-2c6b7b4f798f/screenshot-5.png"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://nomori-life.grace19052005.chatgpt.site",
+      "localizations": {
+        "en": {
+          "name": "Nomori",
+          "intro": "Many people want to preserve everyday moments, but long-form typing feels slow and exhausting. Traditional journals also provide little response, making the habit difficult to sustain. Housing restrictions, limited time, and long-term responsibilities also prevent many people from owning a real pet. Nomori combines life journaling and AI companionship in one experience. Users can record thoughts, save photos, and revisit their lives through a personal timeline while caring for an AI pet that responds, remembers past conversations, and grows through interaction. Nomori lives in an evolving 3D world with its own needs, moods, personality, and autonomous behavior. By turning daily reflection into a warm and responsive relationship, Nomori makes journaling feel less like homework and more like being understood."
+        },
+        "zh-TW": {
+          "name": "Nomori 糯米",
+          "intro": "許多人明明想留下生活，最後卻因為打字太慢、整理文字太累而放棄；傳統日記只有單向輸入，缺少回應與陪伴，也讓記錄習慣難以持續。另一方面，租屋限制、時間不足與長期照顧的責任，使許多渴望陪伴的人無法飼養真實寵物。\nNomori 糯米把生活記錄與 AI 陪伴結合成一段會成長的關係。使用者可以用簡短文字記下想法、拍下當下，並透過日記時間線重新看見自己的生活。照片不只被收藏，還能化為餵養糯米的互動，讓每個日常片段都產生意義。\n糯米不是安靜的資料夾，也不是只會給固定答案的聊天機器人。牠生活在會隨日夜與天氣變化的 3D 世界中，擁有自己的需求、情緒、個性與自主行為；牠會聊天、記得使用者分享過的事情，並隨著餵食、陪伴與互動逐步成長。使用者可以按照自己的節奏獨自照顧糯米，也能邀請重要的人共同累積回憶與成就。\nNomori 希望降低記錄生活的門檻，同時補上傳統日記缺少的情感回饋。讓每一次記錄不只是多一段文字，而是得到回應、被好好接住，最後累積成使用者與糯米共同經歷的生活。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "04c9cb66-a883-4ece-8200-e57e8c2df41c",
+      "team_id": "d3a55bc3-b277-46a0-b7f1-56eb7c9cedff",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "VocabStash",
+      "team_name": "All Green Peppers",
+      "category": "Education",
+      "intro": "VocabStash is a native iOS app with a Safari extension for collecting and reviewing English vocabulary. Users can save unfamiliar words and phrases while browsing, organize meanings, examples, collocations, synonyms, and antonyms, then reinforce them through adaptive spaced repetition. Data is stored in the user's private iCloud database and remains available for offline viewing.",
+      "video_url": "https://youtube.com/shorts/xOQQLXt9cQ0?si=z3LVZ3VgQzTPX4FO$0",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/04c9cb66-a883-4ece-8200-e57e8c2df41c/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/04c9cb66-a883-4ece-8200-e57e8c2df41c/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/04c9cb66-a883-4ece-8200-e57e8c2df41c/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/04c9cb66-a883-4ece-8200-e57e8c2df41c/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/04c9cb66-a883-4ece-8200-e57e8c2df41c/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/04c9cb66-a883-4ece-8200-e57e8c2df41c/screenshot-5.png"
+      ],
+      "is_finalist": true,
+      "poster_site": "https://vocabstash.ycydev.org",
+      "localizations": {
+        "en": {
+          "name": "VocabStash",
+          "intro": "VocabStash is a native iOS app with a Safari extension for collecting and reviewing English vocabulary. Users can save unfamiliar words and phrases while browsing, organize meanings, examples, collocations, synonyms, and antonyms, then reinforce them through adaptive spaced repetition. Data is stored in the user's private iCloud database and remains available for offline viewing."
+        },
+        "zh-TW": {
+          "name": "VocabStash",
+          "intro": "VocabStash 是一款結合原生 iOS App 與 Safari 延伸功能的英文單字收藏與複習工具。使用者可在瀏覽網頁時快速收藏不熟悉的單字與片語，整理釋義、例句、搭配詞、近義詞和反義詞，再透過依記憶表現調整的間隔複習加深印象。資料儲存在使用者自己的 iCloud，並可在離線時查看。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "19e64689-24f2-4747-836b-68dafa69c350",
+      "team_id": "f679d665-854a-4625-861c-2dd03fc2f1f2",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Tailor",
+      "team_name": "Tailor",
+      "category": "Style",
+      "intro": "Tailor is your personalized virtual fitting room, designed to make online shopping feel more certain. Create a private, faceless fitting model using your body measurements, then import clothing from online stores by pasting a product link or uploading a screenshot. Compare sizes, explore different fits, and view each look from every angle before you buy. Tailor helps you understand how clothes may fit your body—so you can shop with greater confidence and fewer surprises.",
+      "video_url": "https://youtube.com/watch?v=xxxx",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/19e64689-24f2-4747-836b-68dafa69c350/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/19e64689-24f2-4747-836b-68dafa69c350/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/19e64689-24f2-4747-836b-68dafa69c350/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/19e64689-24f2-4747-836b-68dafa69c350/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/19e64689-24f2-4747-836b-68dafa69c350/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/19e64689-24f2-4747-836b-68dafa69c350/screenshot-5.png"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://abed034e.tailorweb.pages.dev",
+      "localizations": {
+        "en": {
+          "name": "Tailor",
+          "intro": "Tailor is your personalized virtual fitting room, designed to make online shopping feel more certain. Create a private, faceless fitting model using your body measurements, then import clothing from online stores by pasting a product link or uploading a screenshot. Compare sizes, explore different fits, and view each look from every angle before you buy. Tailor helps you understand how clothes may fit your body—so you can shop with greater confidence and fewer surprises."
+        },
+        "zh-TW": {
+          "name": "Tailor",
+          "intro": "Tailor 是你的個人化虛擬試衣間，讓線上購物少一點猜測，多一點確定。輸入身體數據後，即可建立專屬且保護隱私的無臉試衣模型；只要貼上商品連結或上傳截圖，就能匯入網路商店中的服飾。你可以比較不同尺寸與版型，並從正面、側面、背面及動態視角查看穿著效果，在下單前更清楚地了解衣服是否適合自己。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "9220dab4-cc7a-4445-94be-c1ce51984231",
+      "team_id": "23595794-b3e1-45ed-8f57-d721a424bbf0",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "PayReview",
+      "team_name": "忘性很差",
+      "category": "Finance",
+      "intro": "PayReview is a personal finance app built around one idea: see the impact of a purchase before you make it, not after. Most budgeting apps only tell you where your money went once it's already spent — PayReview answers that question one step earlier, showing how a purchase affects today's budget, your flexible spending, and the savings goal you're working toward, before you tap \"pay.\" After a short guided setup, users define their income cycle, essential expenses, flexible budget, and a savings goal (e.g. \"Trip to Japan\"). The \"Today\" view shows a live \"safe to spend today\" amount, along with an \"Evaluate this purchase\" tool: enter an amount and category, and PayReview projects how it would affect this week's budget and your goal timeline before you decide, not after. The \"Plan\" view summarizes the income cycle, essential expenses, flexible budget, safety buffer, and goals, and the \"Records\" view logs real expenses, income, and transfers — confirmed records update the budget, while an evaluation never does, keeping simulation and reality clearly separate. Accounts and data are backed by Firebase Authentication (email and Google sign-in) and Firestore sync.\n",
+      "video_url": "https://youtube.com/watch?v=xxxx",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9220dab4-cc7a-4445-94be-c1ce51984231/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9220dab4-cc7a-4445-94be-c1ce51984231/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9220dab4-cc7a-4445-94be-c1ce51984231/screenshot-2.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9220dab4-cc7a-4445-94be-c1ce51984231/screenshot-3.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9220dab4-cc7a-4445-94be-c1ce51984231/screenshot-4.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/9220dab4-cc7a-4445-94be-c1ce51984231/screenshot-5.jpg"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://payreview.yytttt420.chatgpt.site/",
+      "localizations": {
+        "en": {
+          "name": "PayReview",
+          "intro": "PayReview is a personal finance app built around one idea: see the impact of a purchase before you make it, not after. Most budgeting apps only tell you where your money went once it's already spent — PayReview answers that question one step earlier, showing how a purchase affects today's budget, your flexible spending, and the savings goal you're working toward, before you tap \"pay.\" After a short guided setup, users define their income cycle, essential expenses, flexible budget, and a savings goal (e.g. \"Trip to Japan\"). The \"Today\" view shows a live \"safe to spend today\" amount, along with an \"Evaluate this purchase\" tool: enter an amount and category, and PayReview projects how it would affect this week's budget and your goal timeline before you decide, not after. The \"Plan\" view summarizes the income cycle, essential expenses, flexible budget, safety buffer, and goals, and the \"Records\" view logs real expenses, income, and transfers — confirmed records update the budget, while an evaluation never does, keeping simulation and reality clearly separate. Accounts and data are backed by Firebase Authentication (email and Google sign-in) and Firestore sync.\n"
+        },
+        "zh-TW": {
+          "name": "PayReview",
+          "intro": "PayReview 是一款「消費前先看見影響」的個人財務規劃 App。多數記帳工具只能在花費之後告訴你錢去了哪裡， PayReview 想解決的是更早一步的問題：在按下付款鍵之前，先讓你知道這筆錢會如何影響今天的預算、彈性支出， 與你正在存的目標。使用者完成簡單的引導設定後，會建立收入週期、必要支出、彈性預算與存錢目標。 「今天」頁面即時呈現「今天約可安心花的金額」，並提供「評估眼前的消費」功能：輸入金額與類別後， PayReview 會試算這筆錢對本週預算與目標達成時間的影響，讓使用者在決定要不要花之前先看到後果。 「計畫」頁面彙整收入週期、必要支出、彈性預算、安全緩衝與目標；「紀錄」頁面用於新增正式的支出、收入與轉帳， 正式紀錄會更新預算，試算則不會，讓模擬與真實紀錄清楚分開。帳號與資料以 Firebase Authentication （Email 與 Google 登入）與 Firestore 雲端同步。\n"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "abd8da2f-faa3-4dcc-84e9-66d42c0dac5a",
+      "team_id": "aa9bd1c8-a5d7-4e69-b9d6-390096a33c09",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "indueiOS",
+      "team_name": "嘉音",
+      "category": "生產力APP",
+      "intro": "indueiOS is an app that enables anyone to create and interact with a personalized AI Agent. Users can customize the Agent's appearance, voice, personality, knowledge, and capabilities, then communicate naturally through text, voice, or a virtual avatar to ask questions and receive instant, personalized responses.\nindueiOS connects the Agent to the user's workspace and everyday tools, allowing it to access and organize calendars, email, reminders, documents, and other information. Beyond answering questions, the Agent can carry out workflows based on the user's needs, such as generating a daily briefing, preparing meeting materials, organizing an inbox, summarizing project progress, creating research summaries, and scheduling focus time.\nThe app brings essential information together on the home screen, helping users quickly review their daily schedule, important emails, and tasks. Users can also create, search, and rerun personal workflows. Before sending email, modifying data, deleting content, or updating calendar events, the Agent requests user approval and records the outcome in the activity log, ensuring that every action is transparent, controlled, and traceable.\nEach Agent can be tailored to different needs, serving as a personal assistant, learning companion, professional advisor, creative partner, or virtual character. In addition to conversation, question answering, and recommendations, the Agent understands the user's work context, organizes information, and safely completes tasks across daily life, learning, and work.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/abd8da2f-faa3-4dcc-84e9-66d42c0dac5a/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/abd8da2f-faa3-4dcc-84e9-66d42c0dac5a/screenshot-1.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/abd8da2f-faa3-4dcc-84e9-66d42c0dac5a/screenshot-2.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/abd8da2f-faa3-4dcc-84e9-66d42c0dac5a/screenshot-3.jpg",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/abd8da2f-faa3-4dcc-84e9-66d42c0dac5a/screenshot-4.jpg"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://indue.ai/#governance",
+      "localizations": {
+        "en": {
+          "name": "indueiOS",
+          "intro": "indueiOS is an app that enables anyone to create and interact with a personalized AI Agent. Users can customize the Agent's appearance, voice, personality, knowledge, and capabilities, then communicate naturally through text, voice, or a virtual avatar to ask questions and receive instant, personalized responses.\nindueiOS connects the Agent to the user's workspace and everyday tools, allowing it to access and organize calendars, email, reminders, documents, and other information. Beyond answering questions, the Agent can carry out workflows based on the user's needs, such as generating a daily briefing, preparing meeting materials, organizing an inbox, summarizing project progress, creating research summaries, and scheduling focus time.\nThe app brings essential information together on the home screen, helping users quickly review their daily schedule, important emails, and tasks. Users can also create, search, and rerun personal workflows. Before sending email, modifying data, deleting content, or updating calendar events, the Agent requests user approval and records the outcome in the activity log, ensuring that every action is transparent, controlled, and traceable.\nEach Agent can be tailored to different needs, serving as a personal assistant, learning companion, professional advisor, creative partner, or virtual character. In addition to conversation, question answering, and recommendations, the Agent understands the user's work context, organizes information, and safely completes tasks across daily life, learning, and work."
+        },
+        "zh-TW": {
+          "name": "indueiOS",
+          "intro": "indueiOS 是一款讓任何人都能建立專屬 AI Agent，並與其自然互動的 App。使用者可以自訂 Agent 的形象、聲音、個性、知識與能力，透過文字、語音或虛擬人形式與它自然對話、詢問各種問題， 並獲得即時且個人化的回應。\nindueiOS 可將 Agent 與使用者的工作空間及常用工具串接，在取得授權後存取並整理行事曆、 電子郵件、提醒事項、文件與其他資訊。Agent 不僅能回答問題，也能依照使用者需求執行工作流程， 例如產生每日簡報、準備會議資料、整理收件匣、彙整專案進度、建立研究摘要，以及安排專注時段。\nApp 會將重要資訊集中呈現在首頁，讓使用者快速掌握每日行程、重要郵件與待辦事項；使用者也能 建立、搜尋並重複執行個人工作流程。當操作涉及寄送電子郵件、修改資料、刪除內容或更新行程時， Agent 會先提交使用者核准，並在活動紀錄中保留執行結果，確保每項操作清楚、可控且可追蹤。\n每個 Agent 都能依照不同需求量身打造，成為個人助理、學習夥伴、專業顧問、創作夥伴或虛擬角色。 除了陪伴使用者對話、回答問題及提供建議，Agent 也能理解個人的工作脈絡、協助整理資訊，並安全 完成生活、學習與工作中的各種任務。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "4ce880db-adef-442e-8426-20ca0f1bdd45",
+      "team_id": "81c978a1-702e-4adf-81c7-e78098d15146",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "Journey Planner",
+      "team_name": "Consensus",
+      "category": "Entertainment",
+      "intro": "Journey Planner is an intelligent iPhone travel-planning app for independent travelers. It solves a common problem: inspiration is scattered across videos, social posts, blogs, and map bookmarks, but turning those ideas into a realistic itinerary takes substantial manual work. Users can import links, then move through four focused tabs—Import Links, Plan, Itinerary, and Favorites—to choose a country, dates, regions, and cities, browse destination recommendations with real-world imagery, and save places they want to visit. The app combines opening hours, travel time, weather, itinerary density, and ticket costs to produce a schedule travelers can realistically complete, with itinerary health checks, one-tap adjustments, and a focused departure mode. The current iOS 17+ prototype supports Light and Dark Mode and uses local sample data to demonstrate the full journey from saved inspiration to departure.",
+      "video_url": "",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4ce880db-adef-442e-8426-20ca0f1bdd45/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4ce880db-adef-442e-8426-20ca0f1bdd45/screenshot-1.webp",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4ce880db-adef-442e-8426-20ca0f1bdd45/screenshot-2.webp",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/4ce880db-adef-442e-8426-20ca0f1bdd45/screenshot-3.webp"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://consensus-journey-planner.lilysunmountain.chatgpt.site",
+      "localizations": {
+        "en": {
+          "name": "Journey Planner",
+          "intro": "Journey Planner is an intelligent iPhone travel-planning app for independent travelers. It solves a common problem: inspiration is scattered across videos, social posts, blogs, and map bookmarks, but turning those ideas into a realistic itinerary takes substantial manual work. Users can import links, then move through four focused tabs—Import Links, Plan, Itinerary, and Favorites—to choose a country, dates, regions, and cities, browse destination recommendations with real-world imagery, and save places they want to visit. The app combines opening hours, travel time, weather, itinerary density, and ticket costs to produce a schedule travelers can realistically complete, with itinerary health checks, one-tap adjustments, and a focused departure mode. The current iOS 17+ prototype supports Light and Dark Mode and uses local sample data to demonstrate the full journey from saved inspiration to departure."
+        },
+        "zh-TW": {
+          "name": "走得完",
+          "intro": "走得完是一款為自由行旅人設計的 iPhone 智慧旅行規劃 App，解決靈感散落在影片、社群貼文、部落格與地圖收藏中，卻難以整理成可執行行程的問題。使用者可直接匯入連結，在「匯入連結、規劃、行程、最愛」四個分頁中選擇國家、旅行日期、地區與縣市，瀏覽附有實景圖片的景點推薦並收藏想去地點。App 會綜合營業時間、移動時間、天氣、行程密度與票券預算，產生真正走得完的日程，並提供行程健檢、一鍵調整與出發模式。現階段為支援 iOS 17 以上與 Light／Dark Mode 的本地 Prototype，使用固定範例資料展示從收藏靈感到實際出發的完整體驗。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    },
+    {
+      "id": "f82d3ac0-8ca1-462c-89e3-efb4c53b9316",
+      "team_id": "dfd88c1e-a9dd-4081-b2ff-1533c2c018d1",
+      "event_id": "848c34a8-d4da-4f02-9687-4d19335865cf",
+      "name": "作伙 Tso-hue",
+      "team_name": "百老匯",
+      "category": "Health & Fitness",
+      "intro": "“做伙” is a warm and friendly health companion app designed for older adults and their families. It helps make everyday wellness easier, gives families meaningful ways to show they care, and keeps everyone connected through lively, natural interactions.\n\nOlder adults can easily record meals, water intake, physical activity, and mood using large buttons, text, or voice input. They can also manage medication reminders, medical appointments, and pre-visit preparations. Xiao-Fu, a lovable Shiba Inu companion, offers gentle encouragement along the way—with no rankings, no pressure, and no penalties for taking a break. Wellness becomes a comfortable part of everyday life, not another source of stress.\n\nFamily members use their own accounts and can participate only with the older adult’s permission. They may help create reminders, prepare for appointments, and check in based on the information the older adult chooses to share. Instead of simply asking, “How have you been?”, family members can start warmer, more meaningful conversations—such as, “I saw you went for a walk today. That’s wonderful!” or “Have you been sleeping well lately? Would you like us to think of something together?” Every expression of care becomes more thoughtful, relevant, and personal.\n\nThe app also includes invitation-only private Family Circles. Family members can share photos, life updates, voice messages, comments, and expressive reactions. From a home-cooked meal and an afternoon walk to preparing for an upcoming appointment, every little moment can become a reason to connect. Even when family members live far apart, everyone can still take part in one another’s daily lives.\n\nAll family-assistance permissions can be managed separately. Older adults remain in control of who can view or help with specific information, and permissions can be changed or withdrawn at any time. Health screening results are added to trends only after they have been reviewed and confirmed. Medication reminders are never treated as proof that medication was actually taken—protecting privacy, personal autonomy, and clear medical-safety boundaries.\n\nBeyond health management, “做伙” offers relaxing cognitive games, customizable greeting-image creation, and engaging family activities that bring more joy and conversation into each day. It supports Dynamic Type, VoiceOver, Dark Mode, keyboard input, and voice input, making it accessible and comfortable for family members of different ages and needs.\n\n“做伙” means being there for one another—sharing everyday moments, caring together, and staying close through life’s little routines. It helps older adults live with greater confidence and ease, while turning a family’s love into care that can truly be seen, felt, and received.",
+      "video_url": "https://youtu.be/nXzcm7n8EYM",
+      "icon_url": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/f82d3ac0-8ca1-462c-89e3-efb4c53b9316/icon.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/f82d3ac0-8ca1-462c-89e3-efb4c53b9316/screenshot-1.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/f82d3ac0-8ca1-462c-89e3-efb4c53b9316/screenshot-2.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/f82d3ac0-8ca1-462c-89e3-efb4c53b9316/screenshot-3.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/f82d3ac0-8ca1-462c-89e3-efb4c53b9316/screenshot-4.png",
+        "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/submissions/f82d3ac0-8ca1-462c-89e3-efb4c53b9316/screenshot-5.png"
+      ],
+      "is_finalist": false,
+      "poster_site": "https://zuohuo-senior-companion.wei-ting-ns14.chatgpt.site",
+      "localizations": {
+        "en": {
+          "name": "作伙 Tso-hue",
+          "intro": "“做伙” is a warm and friendly health companion app designed for older adults and their families. It helps make everyday wellness easier, gives families meaningful ways to show they care, and keeps everyone connected through lively, natural interactions.\n\nOlder adults can easily record meals, water intake, physical activity, and mood using large buttons, text, or voice input. They can also manage medication reminders, medical appointments, and pre-visit preparations. Xiao-Fu, a lovable Shiba Inu companion, offers gentle encouragement along the way—with no rankings, no pressure, and no penalties for taking a break. Wellness becomes a comfortable part of everyday life, not another source of stress.\n\nFamily members use their own accounts and can participate only with the older adult’s permission. They may help create reminders, prepare for appointments, and check in based on the information the older adult chooses to share. Instead of simply asking, “How have you been?”, family members can start warmer, more meaningful conversations—such as, “I saw you went for a walk today. That’s wonderful!” or “Have you been sleeping well lately? Would you like us to think of something together?” Every expression of care becomes more thoughtful, relevant, and personal.\n\nThe app also includes invitation-only private Family Circles. Family members can share photos, life updates, voice messages, comments, and expressive reactions. From a home-cooked meal and an afternoon walk to preparing for an upcoming appointment, every little moment can become a reason to connect. Even when family members live far apart, everyone can still take part in one another’s daily lives.\n\nAll family-assistance permissions can be managed separately. Older adults remain in control of who can view or help with specific information, and permissions can be changed or withdrawn at any time. Health screening results are added to trends only after they have been reviewed and confirmed. Medication reminders are never treated as proof that medication was actually taken—protecting privacy, personal autonomy, and clear medical-safety boundaries.\n\nBeyond health management, “做伙” offers relaxing cognitive games, customizable greeting-image creation, and engaging family activities that bring more joy and conversation into each day. It supports Dynamic Type, VoiceOver, Dark Mode, keyboard input, and voice input, making it accessible and comfortable for family members of different ages and needs.\n\n“做伙” means being there for one another—sharing everyday moments, caring together, and staying close through life’s little routines. It helps older adults live with greater confidence and ease, while turning a family’s love into care that can truly be seen, felt, and received."
+        },
+        "zh-TW": {
+          "name": "作伙 Tso-hue",
+          "intro": "「做伙」是一款為長者與全家人打造的暖心健康陪伴 App，讓日常健康有人陪、家人的關心有依據，彼此的互動也更自然、更熱絡！\n\n長者可以透過大按鈕、文字或語音，輕鬆記錄飲食、喝水、活動與心情，也能管理用藥提醒、回診行程及看診前準備。可愛的柴犬夥伴「小福」會在每一步送上溫柔鼓勵——不排名、不催促，更不會因為中斷而懲罰，讓健康管理成為自在、沒有壓力的生活習慣。\n\n家屬則能使用自己的帳號，在長者授權下參與陪伴。除了協助新增提醒、準備回診與關心近況，也能從長者願意分享的日常紀錄中，找到更貼心的關懷方式。與其只問一句「最近好嗎？」，家人可以更具體地說：「今天有出去走走，感覺很不錯耶！」或「最近睡得還好嗎？需要我們一起想想辦法嗎？」讓每一次關心都有依據、有溫度，也更容易開啟對話。\n\n「做伙」也提供邀請制的私密家庭圈圈。家人可以分享照片、生活近況、語音留言與大表情，一起為長輩加油、回應彼此的日常。從一頓飯、一次散步，到回診前的陪伴準備，每個小片段都能成為全家互動的起點，讓不同世代即使不住在一起，也能持續參與彼此的生活。\n\n所有家屬權限皆可分別設定，長者能清楚掌握「誰可以看什麼、協助什麼」，並可隨時調整或撤銷。健檢數值必須經過確認才會加入趨勢；用藥提醒也不等同實際服藥證明，守住隱私、尊重自主，更守住清楚的醫療安全界線。\n\n除了健康管理，「做伙」還有輕鬆有趣的認知小遊戲、長輩圖創作與家庭互動內容，為每天多添一點樂趣與話題。App 支援動態字級、VoiceOver、深色模式，以及鍵盤與語音輸入，讓不同年齡與使用需求的家人都能安心上手。\n\n「做伙」，就是一起作伴、一起關心、一起把平凡日常過得更有連結。讓長者自在生活，讓家人的愛不只放在心裡，更能化成看得見、接得到的陪伴。"
+        }
+      },
+      "status": "submitted",
+      "result_rank": null,
+      "rankings_revealed": true,
+      "judge_rank": null,
+      "finalists_revealed": true,
+      "judge_results_revealed": true
+    }
+  ]
+}
