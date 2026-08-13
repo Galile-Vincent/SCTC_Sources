@@ -1,4 +1,6 @@
 {
+  "has_feature": true,
+  "featured_event": 3,
   "events": [
     {
       "id": "event-ai-in-action-2026-03-15",
@@ -8,15 +10,15 @@
       },
       "event_date": "2026-03-15",
       "event_time": {
-        "en": "13:30 - 16:30",
-        "zh-TW": "13:30 - 16:30"
+        "en": "14:00 - 16:30",
+        "zh-TW": "14:00 - 16:30"
       },
       "location_name": {
         "en": "National Taiwan University",
         "zh-TW": "國立臺灣大學"
       },
       "location_link": "https://maps.app.goo.gl/ntu-campus",
-      "register_link": "https://forms.gle/sctc-demo-register",
+      "register_link": "https://luma.com/ahkk2h51",
       "schedule": {
         "en": [
           "Opening and community welcome",
@@ -44,32 +46,32 @@
       },
       "event_date": "2026-05-31",
       "event_time": {
-        "en": "13:30 - 17:00",
-        "zh-TW": "13:30 - 17:00"
+        "en": "14:00 - 16:30",
+        "zh-TW": "14:00 - 16:30"
       },
       "location_name": {
         "en": "National Taiwan University",
         "zh-TW": "國立臺灣大學"
       },
       "location_link": "https://maps.app.goo.gl/ntu-campus",
-      "register_link": "https://forms.gle/sctc-zero-to-one",
+      "register_link": "https://luma.com/hjbtslbp",
       "schedule": {
         "en": [
-          "Student team showcases from first prototypes",
-          "Mentor feedback on scope, tradeoffs, and execution",
-          "AI-assisted coding workflow clinic",
-          "Summer Camp project topic submission briefing"
+          "Opening and community welcome",
+          "Why AI-native product thinking matters for students",
+          "Hands-on planning with AI for product scope",
+          "Xcode workflow walkthrough and Q&A"
         ],
         "zh-TW": [
-          "學生團隊初版作品展示",
-          "導師回饋：範圍、取捨與執行",
-          "AI 協作開發流程門診",
-          "Summer Camp 題目提交流程說明"
+          "開場與社群介紹",
+          "為什麼學生需要 AI 原生的產品思維",
+          "AI 協作規劃實作與需求範圍切分",
+          "Xcode 開發流程示範與現場問答"
         ]
       },
       "notice": {
         "en": "Bring your current prototype or storyboard for live feedback.",
-        "zh-TW": "請攜帶目前的原型或分鏡，現場可獲得即時回饋。"
+        "zh-TW": "參與本場活動的同學可優先取得 Summer Camp 參與資格。"
       }
     },
     {
@@ -88,6 +90,7 @@
         "zh-TW": "國立臺灣大學"
       },
       "location_link": "https://maps.app.goo.gl/ntu-campus",
+      "register_link": "https://luma.com/db49qc4m",
       "schedule": {
         "en": [
           "Day 1: Team formation, product framing, and architecture planning",
