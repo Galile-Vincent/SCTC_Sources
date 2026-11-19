@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "id": "ssc26-reminder-part-1",
+      "publish_date": "2026-11-19",
+      "publisher": {
+        "en": "Yilun",
+        "zh-TW": "Yilun"
+      },
+      "image_link": "https://r.craft.do/sZ2khTejeT-qXEwjT2XGD",
+      "title": {
+        "en": "SSC26 分享（上）：ReMinder 的誕生——從靈感到作品",
+        "zh-TW": "SSC26 分享（上）：ReMinder 的誕生——從靈感到作品"
+      },
+      "sub_title": {
+        "en": "從一場藝術工作坊的靈感開始，分享 ReMinder 的設計、開發與思考歷程。",
+        "zh-TW": "從一場藝術工作坊的靈感開始，分享 ReMinder 的設計、開發與思考歷程。"
+      },
+      "markdown_path": "stories/ssc26-reminder-part-1.zh-TW.md"
+    },
+    {
       "id": "vcook-1",
       "publish_date": "2026-04-01",
       "publisher": {
