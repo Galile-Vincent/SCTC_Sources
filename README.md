@@ -75,6 +75,7 @@ All optional:
 - `sub_title` (localized supported)
 - `markdown_path` (string or localized object)
 - optional: `tag` (localized supported, e.g. `{ "en": "Developer", "zh-TW": "開發者" }`; shown as a pill on story cards and as the kicker on the story detail page when present)
+- optional: `pinned` (`true` to pin; pinned stories are listed first and the first one becomes the large featured card. If none are pinned, the newest story is featured.)
 
 Recommended `markdown_path` format:
 
