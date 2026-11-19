@@ -111,3 +111,9 @@ ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自�
 ***
 
 至於作品送出之後發生了什麼事？就留到下篇再說吧！
+
+## 體驗 ReMinder
+
+如果你也想親自感受這段從情緒探索到重新拼湊希望的旅程，歡迎下載 ReMinder，試著創作一顆屬於自己的希望之星。
+
+[前往 App Store 體驗 ReMinder](https://apps.apple.com/tw/app/reminder-edition/id6790437560)
