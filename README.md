@@ -74,6 +74,7 @@ All optional:
 - `title` (localized supported)
 - `sub_title` (localized supported)
 - `markdown_path` (string or localized object)
+- optional: `tag` (localized supported, e.g. `{ "en": "Developer", "zh-TW": "開發者" }`; shown as a pill on story cards and as the kicker on the story detail page when present)
 
 Recommended `markdown_path` format:
 

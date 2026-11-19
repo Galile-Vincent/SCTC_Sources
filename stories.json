@@ -37,6 +37,10 @@
       "markdown_path": {
         "en": "stories/vcook.en.md",
         "zh-TW": "stories/vcook.zh-TW.md"
+      },
+      "tag": {
+        "en": "Developer",
+        "zh-TW": "開發者"
       }
     }
   ]
