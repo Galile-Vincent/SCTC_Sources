@@ -6,7 +6,7 @@
 
 ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自我曾經參與過的一場北護學輔中心工作坊。
 
-![ReMinder App 首頁](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/content/ssc26-reminder-part-1/img/stories/ssc26-reminder-part-1/reminder-home.jpg)
+![ReMinder App 首頁](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/reminder-home.jpg)
 
 這份作品透過專為 iPad 重新設計的五階段藝術體驗：「察覺、抒發、瓦解、重組與昇華」，溫柔地提醒使用者正視並探索自己的情緒。同時，ReMinder 也搭配了容易上手、富含舒壓意象的操作方式與互動體驗，希望減少使用者在操作過程中的挫折感，增加完成體驗後的成就感，讓使用者發現：原來在情緒之外，自己還有能力完成一件小事，藉此輔助使用者自我賦能，重新找回可控感。
 
@@ -55,7 +55,7 @@ ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自�
 
 所以，我盡量減少畫面中不必要的元素，搭配比較口語化、容易理解的文字引導，並反覆測試與調整操作方式，希望讓整個體驗更加直覺、自然。我的目標是：使用者不需要思考太多「接下來要怎麼操作」，而是能夠把注意力放在自己的情緒與創作上。
 
-![選擇代表情緒的色彩](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/content/ssc26-reminder-part-1/img/stories/ssc26-reminder-part-1/emotion-colors.jpg)
+![選擇代表情緒的色彩](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/emotion-colors.jpg)
 
 ### 二、在時間限制內保留完整的體驗
 
@@ -63,7 +63,7 @@ ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自�
 
 在分析原本的活動後，我發現其中有不少時間都花在思考與拼貼上，因此我決定針對這個部分進行調整：將原本的自由拼貼，改成使用固定的星形模具進行裁切。使用者只需要將碎片拖曳到畫面上，就能直接預覽裁切的範圍，再透過簡單的操作，將碎片重新組合成一張附有標語與日期的專屬明信片。這樣一來，不僅能夠縮短操作時間，也能保留原本「將破碎的事物重新組合」的核心意象。
 
-![將碎片重組成希望之星](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/content/ssc26-reminder-part-1/img/stories/ssc26-reminder-part-1/star-assembly.jpg)
+![將碎片重組成希望之星](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/star-assembly.jpg)
 
 ### 三、重新詮釋實體活動中的媒材
 
@@ -78,11 +78,11 @@ ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自�
 
 想著想著，我想起 Apple 在 26 系列作業系統中推出的新設計語言 Liquid Glass。而「玻璃」這個材質，讓我突然靈光一閃：玻璃……玻璃……玻璃！為什麼不乾脆把原本的紙張畫布，重新設計成一塊玻璃呢？原本的活動是透過「撕碎紙張」象徵情緒的瓦解，而在 ReMinder 中，我可以改用「擊碎玻璃」的方式，讓使用者彷彿拿著一把小錘子，親手將承載情緒的畫布擊碎。
 
-![畫布上的塗鴉](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/content/ssc26-reminder-part-1/img/stories/ssc26-reminder-part-1/painting.jpg)
+![畫布上的塗鴉](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/painting.jpg)
 
 經過實際測試後，我發現這種仿玻璃的設計，不論是在視覺張力、互動回饋，還是整體的衝擊感上，都比原本模擬撕紙的方式更加鮮明。因此，最後我決定放棄紙張材質，改用玻璃作為 ReMinder 的主要畫布，這也是整個開發過程中，讓我印象非常深刻的一次設計取捨。
 
-![擊碎畫布的玻璃效果](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/content/ssc26-reminder-part-1/img/stories/ssc26-reminder-part-1/shattered-glass.jpg)
+![擊碎畫布的玻璃效果](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/shattered-glass.jpg)
 
 ### 回顧：AI 能幫忙寫 Code，但做決定的還是自己
 
