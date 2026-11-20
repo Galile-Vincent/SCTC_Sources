@@ -1,6 +1,6 @@
 # ReMinder 的誕生: 從靈感到作品
 
-> 這是 SSC26 分享的上篇，聊聊 ReMinder 這個作品從靈感、設計到開發的過程。得獎與 WWDC26 的經歷，請看下篇。
+> 這是 SSC26 分享的上篇，聊聊 ReMinder 這個作品從靈感、設計到開發的過程。得獎與 WWDC26 的經歷，請看[下篇](/stories/ssc26-reminder-part-2)。
 
 ## 作品介紹
 
@@ -57,7 +57,6 @@ ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自�
 
 ![選擇三種能代表當下情緒的顏色，作為接下來創作的起點。](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/emotion-selection.jpg)
 
-*選擇三種能代表當下情緒的顏色，作為接下來創作的起點。*
 
 ### 二、在時間限制內保留完整的體驗
 
@@ -67,7 +66,6 @@ ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自�
 
 ![將破碎的畫布重新拼湊成希望之星，保留從瓦解走向重組的核心意象。](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/shattered-glass.jpg)
 
-*將破碎的畫布重新拼湊成希望之星，保留從瓦解走向重組的核心意象。*
 
 ### 三、重新詮釋實體活動中的媒材
 
@@ -84,13 +82,11 @@ ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自�
 
 ![使用手指或 Apple Pencil 自由塗畫，將難以言說的情緒轉化為畫布上的色彩。](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/emotion-colors.jpg)
 
-*使用手指或 Apple Pencil 自由塗畫，將難以言說的情緒轉化為畫布上的色彩。*
 
 經過實際測試後，我發現這種仿玻璃的設計，不論是在視覺張力、互動回饋，還是整體的衝擊感上，都比原本模擬撕紙的方式更加鮮明。因此，最後我決定放棄紙張材質，改用玻璃作為 ReMinder 的主要畫布，這也是整個開發過程中，讓我印象非常深刻的一次設計取捨。
 
 ![以敲碎玻璃取代撕碎紙張，透過視覺與互動回饋呈現情緒瓦解的感受。](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/painting.jpg)
 
-*以敲碎玻璃取代撕碎紙張，透過視覺與互動回饋呈現情緒瓦解的感受。*
 
 ### 回顧：AI 能幫忙寫 Code，但做決定的還是自己
 
@@ -110,7 +106,7 @@ ReMinder 是一個專注於心靈療癒與自我探索的作品，靈感來自�
 
 ***
 
-至於作品送出之後發生了什麼事？就留到下篇再說吧！
+至於作品送出之後發生了什麼事？就留到[下篇](/stories/ssc26-reminder-part-2)再說吧！
 
 ## 體驗 ReMinder
 

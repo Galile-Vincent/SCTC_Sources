@@ -9,14 +9,47 @@
       },
       "image_link": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-1/reminder-home.jpg",
       "title": {
-        "en": "ReMinder 的誕生: 從靈感到作品",
+        "en": "The Birth of ReMinder: From Inspiration to Creation",
         "zh-TW": "ReMinder 的誕生: 從靈感到作品"
       },
       "sub_title": {
-        "en": "從一場藝術工作坊的靈感開始，分享 ReMinder 的設計、開發與思考歷程。",
+        "en": "How an art workshop inspired ReMinder, and the design, development and thinking behind it.",
         "zh-TW": "從一場藝術工作坊的靈感開始，分享 ReMinder 的設計、開發與思考歷程。"
       },
-      "markdown_path": "stories/ssc26-reminder-part-1.zh-TW.md"
+      "markdown_path": {
+        "en": "stories/ssc26-reminder-part-1.en.md",
+        "zh-TW": "stories/ssc26-reminder-part-1.zh-TW.md"
+      },
+      "tag": {
+        "en": "SSC26 · Part 1",
+        "zh-TW": "SSC26 · 上篇"
+      },
+      "pinned": true
+    },
+    {
+      "id": "ssc26-reminder-part-2",
+      "publish_date": "2026-11-20",
+      "publisher": {
+        "en": "Yilun",
+        "zh-TW": "Yilun"
+      },
+      "image_link": "https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-2/winner-moment.jpg",
+      "title": {
+        "en": "SSC26 Story (Part 2): Becoming a Distinguished Winner and Experiencing WWDC26",
+        "zh-TW": "SSC26 分享（下）：成為 Distinguished Winner 與 WWDC26"
+      },
+      "sub_title": {
+        "en": "The moment I found out I had won, three days at Apple Park for WWDC26, and a few words for anyone thinking about entering.",
+        "zh-TW": "得獎那一刻、WWDC26 在 Apple Park 的三天，以及想對準備參賽的你說的話。"
+      },
+      "markdown_path": {
+        "en": "stories/ssc26-reminder-part-2.en.md",
+        "zh-TW": "stories/ssc26-reminder-part-2.zh-TW.md"
+      },
+      "tag": {
+        "en": "SSC26 · Part 2",
+        "zh-TW": "SSC26 · 下篇"
+      }
     },
     {
       "id": "vcook-1",
