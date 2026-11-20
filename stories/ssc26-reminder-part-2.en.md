@@ -68,7 +68,7 @@ If you're planning to attend WWDC27, I also strongly recommend looking for in-pe
 
 By now, I imagine a lot of people are curious about the DW Experience I've mentioned so many times. All I can say is that it was genuinely dreamlike! Getting a photo with the CEO, taking part in special events—yes, those things really happened.
 
-![A photo on the lawn at Apple Park](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-2/dw-experience.jpg)
+![With new Apple CEO John Ternus on the lawn at Apple Park](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-2/dw-experience.jpg)
 
 But in the spirit of Apple's own secrecy at the time, I think I'll keep the specific details of the experience to myself (hahaha).
 

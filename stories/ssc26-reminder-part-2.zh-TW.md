@@ -58,7 +58,7 @@
 
 說到這裡，我相信很多人最好奇的，應該還是我前面提到好多次的 DW Experience 到底是什麼？我只能說，這真的太夢幻了！和 CEO 合照、參加特別活動，這些都是真的。
 
-![在 Apple Park 草坪上的合照](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-2/dw-experience.jpg)
+![在 Apple Park 草坪上與 Apple 新任 CEO John Ternus 合照](https://raw.githubusercontent.com/Galile-Vincent/SCTC_Sources/main/img/stories/ssc26-reminder-part-2/dw-experience.jpg)
 
 不過，就和當時的 Apple 一樣守口如瓶，我想我還是把體驗的具體內容保密好了（哈哈哈）。如果要用比較概括的方式來形容：你真的有機會和那些平常只會在發表會影片裡看到的大人物拍照、說話，也能向 Apple 員工分享自己的作品，聽到他們的回饋與鼓勵；除此之外，還有近乎瘋狂的熱情、掌聲與歡呼，認識來自世界各地的 Distinguished Winners，參與 Apple 特別安排和主持的小組活動，以及那種難以用金錢衡量的眼界拓展。真的，一切都太夢幻、太 Mind-Blowing 了！直到現在回想起來，我還是會覺得，這一切竟然真的發生在自己身上。
 
